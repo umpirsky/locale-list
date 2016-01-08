@@ -1,0 +1,564 @@
+id,value
+af,afríkanska
+af_NA,"afríkanska (Namibía)"
+af_ZA,"afríkanska (Suður-Afríka)"
+ak,akan
+ak_GH,"akan (Gana)"
+sq,albanska
+sq_AL,"albanska (Albanía)"
+sq_XK,"albanska (Kósóvó)"
+sq_MK,"albanska (Makedónía)"
+am,amharíska
+am_ET,"amharíska (Eþíópía)"
+ar,arabíska
+ar_DZ,"arabíska (Alsír)"
+ar_BH,"arabíska (Barein)"
+ar_DJ,"arabíska (Djíbútí)"
+ar_EG,"arabíska (Egyptaland)"
+ar_ER,"arabíska (Erítrea)"
+ar_PS,"arabíska (Heimastjórnarsvæði Palestínumanna)"
+ar_IQ,"arabíska (Írak)"
+ar_IL,"arabíska (Ísrael)"
+ar_YE,"arabíska (Jemen)"
+ar_JO,"arabíska (Jórdanía)"
+ar_QA,"arabíska (Katar)"
+ar_KM,"arabíska (Kómoreyjar)"
+ar_KW,"arabíska (Kúveit)"
+ar_LB,"arabíska (Líbanon)"
+ar_LY,"arabíska (Líbía)"
+ar_MA,"arabíska (Marokkó)"
+ar_MR,"arabíska (Máritanía)"
+ar_OM,"arabíska (Óman)"
+ar_AE,"arabíska (Sameinuðu arabísku furstadæmin)"
+ar_SA,"arabíska (Sádi-Arabía)"
+ar_SO,"arabíska (Sómalía)"
+ar_SS,"arabíska (Suður-Súdan)"
+ar_SD,"arabíska (Súdan)"
+ar_SY,"arabíska (Sýrland)"
+ar_TD,"arabíska (Tsjad)"
+ar_TN,"arabíska (Túnis)"
+ar_EH,"arabíska (Vestur-Sahara)"
+hy,armenska
+hy_AM,"armenska (Armenía)"
+az,aserska
+az_AZ,"aserska (Aserbaídsjan)"
+az_Cyrl_AZ,"aserska (kyrillískt, Aserbaídsjan)"
+az_Cyrl,"aserska (kyrillískt)"
+az_Latn_AZ,"aserska (latneskt, Aserbaídsjan)"
+az_Latn,"aserska (latneskt)"
+as,assamska
+as_IN,"assamska (Indland)"
+bm,bambara
+bm_Latn_ML,"bambara (latneskt, Malí)"
+bm_Latn,"bambara (latneskt)"
+eu,baskneska
+eu_ES,"baskneska (Spánn)"
+bn,bengalska
+bn_BD,"bengalska (Bangladess)"
+bn_IN,"bengalska (Indland)"
+bs,bosníska
+bs_BA,"bosníska (Bosnía og Hersegóvína)"
+bs_Cyrl_BA,"bosníska (kyrillískt, Bosnía og Hersegóvína)"
+bs_Cyrl,"bosníska (kyrillískt)"
+bs_Latn_BA,"bosníska (latneskt, Bosnía og Hersegóvína)"
+bs_Latn,"bosníska (latneskt)"
+br,bretónska
+br_FR,"bretónska (Frakkland)"
+my,burmneska
+my_MM,"burmneska (Mjanmar (Búrma))"
+bg,búlgarska
+bg_BG,"búlgarska (Búlgaría)"
+da,danska
+da_DK,"danska (Danmörk)"
+da_GL,"danska (Grænland)"
+dz,dsongka
+dz_BT,"dsongka (Bútan)"
+et,eistneska
+et_EE,"eistneska (Eistland)"
+en,enska
+en_AI,"enska (Angvilla)"
+en_AG,"enska (Antígva og Barbúda)"
+en_AU,"enska (Ástralía)"
+en_BS,"enska (Bahamaeyjar)"
+en_US,"enska (Bandaríkin)"
+en_AS,"enska (Bandaríska Samóa)"
+en_VI,"enska (Bandarísku Jómfrúaeyjar)"
+en_BB,"enska (Barbados)"
+en_BE,"enska (Belgía)"
+en_BZ,"enska (Belís)"
+en_BM,"enska (Bermúdaeyjar)"
+en_BW,"enska (Botsvana)"
+en_IO,"enska (Bresku Indlandshafseyjar)"
+en_VG,"enska (Bresku Jómfrúaeyjar)"
+en_GB,"enska (Bretland)"
+en_KY,"enska (Caymaneyjar)"
+en_CK,"enska (Cooks-eyjar)"
+en_DG,"enska (Diego Garcia)"
+en_DM,"enska (Dóminíka)"
+en_ER,"enska (Erítrea)"
+en_FK,"enska (Falklandseyjar)"
+en_PH,"enska (Filippseyjar)"
+en_FJ,"enska (Fídjieyjar)"
+en_GM,"enska (Gambía)"
+en_GH,"enska (Gana)"
+en_GI,"enska (Gíbraltar)"
+en_GD,"enska (Grenada)"
+en_GG,"enska (Guernsey)"
+en_GU,"enska (Gvam)"
+en_GY,"enska (Gvæjana)"
+en_IN,"enska (Indland)"
+en_IE,"enska (Írland)"
+en_JM,"enska (Jamaíka)"
+en_JE,"enska (Jersey)"
+en_CX,"enska (Jólaey)"
+en_CM,"enska (Kamerún)"
+en_CA,"enska (Kanada)"
+en_KE,"enska (Kenía)"
+en_KI,"enska (Kíribatí)"
+en_CC,"enska (Kókoseyjar (Keeling))"
+en_LS,"enska (Lesótó)"
+en_LR,"enska (Líbería)"
+en_MG,"enska (Madagaskar)"
+en_MY,"enska (Malasía)"
+en_MW,"enska (Malaví)"
+en_MT,"enska (Malta)"
+en_MH,"enska (Marshalleyjar)"
+en_MU,"enska (Máritíus)"
+en_FM,"enska (Míkrónesía)"
+en_MS,"enska (Montserrat)"
+en_IM,"enska (Mön)"
+en_NA,"enska (Namibía)"
+en_NR,"enska (Nárú)"
+en_NU,"enska (Niue)"
+en_NG,"enska (Nígería)"
+en_MP,"enska (Norður-Maríanaeyjar)"
+en_NF,"enska (Norfolkeyja)"
+en_NZ,"enska (Nýja-Sjáland)"
+en_PK,"enska (Pakistan)"
+en_PW,"enska (Palá)"
+en_PG,"enska (Papúa Nýja-Gínea)"
+en_PN,"enska (Pitcairn-eyjar)"
+en_PR,"enska (Púertó Ríkó)"
+en_RW,"enska (Rúanda)"
+en_SB,"enska (Salómonseyjar)"
+en_ZM,"enska (Sambía)"
+en_WS,"enska (Samóa)"
+en_SH,"enska (Sankti Helena)"
+en_KN,"enska (Sankti Kitts og Nevis)"
+en_LC,"enska (Sankti Lúsía)"
+en_VC,"enska (Sankti Vinsent og Grenadíneyjar)"
+en_SC,"enska (Seychelles-eyjar)"
+en_ZW,"enska (Simbabve)"
+en_SG,"enska (Singapúr)"
+en_SX,"enska (Sint Maarten)"
+en_SL,"enska (Síerra Leóne)"
+en_HK,"enska (Sjálfstjórnarsvæðið Hong Kong)"
+en_MO,"enska (Sjálfstjórnarsvæðið Makaó)"
+en_UM,"enska (Smáeyjar Bandaríkjanna)"
+en_ZA,"enska (Suður-Afríka)"
+en_SS,"enska (Suður-Súdan)"
+en_SD,"enska (Súdan)"
+en_SZ,"enska (Svasíland)"
+en_TZ,"enska (Tansanía)"
+en_TO,"enska (Tonga)"
+en_TK,"enska (Tókelá)"
+en_TT,"enska (Trínidad og Tóbagó)"
+en_TC,"enska (Turks- og Caicoseyjar)"
+en_TV,"enska (Túvalú)"
+en_UG,"enska (Úganda)"
+en_VU,"enska (Vanúatú)"
+eo,esperantó
+ee,ewe
+ee_GH,"ewe (Gana)"
+ee_TG,"ewe (Tógó)"
+fi,finnska
+fi_FI,"finnska (Finnland)"
+fr,franska
+fr_DZ,"franska (Alsír)"
+fr_BE,"franska (Belgía)"
+fr_BJ,"franska (Benín)"
+fr_BF,"franska (Búrkína Fasó)"
+fr_BI,"franska (Búrúndí)"
+fr_DJ,"franska (Djíbútí)"
+fr_CI,"franska (Fílabeinsströndin)"
+fr_FR,"franska (Frakkland)"
+fr_GF,"franska (Franska Gvæjana)"
+fr_PF,"franska (Franska Pólýnesía)"
+fr_GA,"franska (Gabon)"
+fr_GN,"franska (Gínea)"
+fr_GP,"franska (Gvadelúpeyjar)"
+fr_HT,"franska (Haítí)"
+fr_CM,"franska (Kamerún)"
+fr_CA,"franska (Kanada)"
+fr_CG,"franska (Kongó-Brazzaville)"
+fr_CD,"franska (Kongó-Kinshasa)"
+fr_KM,"franska (Kómoreyjar)"
+fr_LU,"franska (Lúxemborg)"
+fr_MG,"franska (Madagaskar)"
+fr_ML,"franska (Malí)"
+fr_MA,"franska (Marokkó)"
+fr_MQ,"franska (Martiník)"
+fr_YT,"franska (Mayotte)"
+fr_MR,"franska (Máritanía)"
+fr_MU,"franska (Máritíus)"
+fr_CF,"franska (Mið-Afríkulýðveldið)"
+fr_GQ,"franska (Miðbaugs-Gínea)"
+fr_MC,"franska (Mónakó)"
+fr_NE,"franska (Níger)"
+fr_NC,"franska (Nýja-Kaledónía)"
+fr_RE,"franska (Réunion)"
+fr_RW,"franska (Rúanda)"
+fr_BL,"franska (Saint Barthélemy)"
+fr_MF,"franska (Saint Martin)"
+fr_PM,"franska (Sankti Pierre og Miquelon)"
+fr_SN,"franska (Senegal)"
+fr_SC,"franska (Seychelles-eyjar)"
+fr_CH,"franska (Sviss)"
+fr_SY,"franska (Sýrland)"
+fr_TG,"franska (Tógó)"
+fr_TD,"franska (Tsjad)"
+fr_TN,"franska (Túnis)"
+fr_VU,"franska (Vanúatú)"
+fr_WF,"franska (Wallis- og Fútúnaeyjar)"
+ff,fúla
+ff_GN,"fúla (Gínea)"
+ff_CM,"fúla (Kamerún)"
+ff_MR,"fúla (Máritanía)"
+ff_SN,"fúla (Senegal)"
+fo,færeyska
+fo_FO,"færeyska (Færeyjar)"
+gl,galíanska
+gl_ES,"galíanska (Spánn)"
+lg,ganda
+lg_UG,"ganda (Úganda)"
+ka,georgíska
+ka_GE,"georgíska (Georgía)"
+el,gríska
+el_GR,"gríska (Grikkland)"
+el_CY,"gríska (Kýpur)"
+kl,grænlenska
+kl_GL,"grænlenska (Grænland)"
+gu,gújaratí
+gu_IN,"gújaratí (Indland)"
+ha,hása
+ha_GH,"hása (Gana)"
+ha_Latn_GH,"hása (latneskt, Gana)"
+ha_Latn_NE,"hása (latneskt, Níger)"
+ha_Latn_NG,"hása (latneskt, Nígería)"
+ha_Latn,"hása (latneskt)"
+ha_NE,"hása (Níger)"
+ha_NG,"hása (Nígería)"
+he,hebreska
+he_IL,"hebreska (Ísrael)"
+hi,hindí
+hi_IN,"hindí (Indland)"
+nl,hollenska
+nl_AW,"hollenska (Arúba)"
+nl_BE,"hollenska (Belgía)"
+nl_CW,"hollenska (Curacao)"
+nl_NL,"hollenska (Holland)"
+nl_BQ,"hollenska (Karíbahafshluti Hollands)"
+nl_SX,"hollenska (Sint Maarten)"
+nl_SR,"hollenska (Súrínam)"
+be,hvítrússneska
+be_BY,"hvítrússneska (Hvíta-Rússland)"
+id,indónesíska
+id_ID,"indónesíska (Indónesía)"
+ig,ígbó
+ig_NG,"ígbó (Nígería)"
+ga,írska
+ga_IE,"írska (Írland)"
+is,íslenska
+is_IS,"íslenska (Ísland)"
+it,ítalska
+it_IT,"ítalska (Ítalía)"
+it_SM,"ítalska (San Marínó)"
+it_CH,"ítalska (Sviss)"
+ja,japanska
+ja_JP,"japanska (Japan)"
+yi,jiddíska
+yo,jórúba
+yo_BJ,"jórúba (Benín)"
+yo_NG,"jórúba (Nígería)"
+kn,kannada
+kn_IN,"kannada (Indland)"
+kk,kasakska
+kk_KZ,"kasakska (Kasakstan)"
+kk_Cyrl_KZ,"kasakska (kyrillískt, Kasakstan)"
+kk_Cyrl,"kasakska (kyrillískt)"
+ks,kasmírska
+ks_Arab_IN,"kasmírska (arabískt, Indland)"
+ks_Arab,"kasmírska (arabískt)"
+ks_IN,"kasmírska (Indland)"
+ca,katalónska
+ca_AD,"katalónska (Andorra)"
+ca_FR,"katalónska (Frakkland)"
+ca_IT,"katalónska (Ítalía)"
+ca_ES,"katalónska (Spánn)"
+ky,kirgiska
+ky_KG,"kirgiska (Kirgistan)"
+ky_Cyrl_KG,"kirgiska (kyrillískt, Kirgistan)"
+ky_Cyrl,"kirgiska (kyrillískt)"
+ki,kíkújú
+ki_KE,"kíkújú (Kenía)"
+rw,kínjarvanda
+rw_RW,"kínjarvanda (Rúanda)"
+zh,kínverska
+zh_Hans_CN,"kínverska (einfaldað, Kína)"
+zh_Hans_SG,"kínverska (einfaldað, Singapúr)"
+zh_Hans_HK,"kínverska (einfaldað, Sjálfstjórnarsvæðið Hong Kong)"
+zh_Hans_MO,"kínverska (einfaldað, Sjálfstjórnarsvæðið Makaó)"
+zh_Hans,"kínverska (einfaldað)"
+zh_Hant_HK,"kínverska (hefðbundið, Sjálfstjórnarsvæðið Hong Kong)"
+zh_Hant_MO,"kínverska (hefðbundið, Sjálfstjórnarsvæðið Makaó)"
+zh_Hant_TW,"kínverska (hefðbundið, Taívan)"
+zh_Hant,"kínverska (hefðbundið)"
+zh_CN,"kínverska (Kína)"
+zh_SG,"kínverska (Singapúr)"
+zh_HK,"kínverska (Sjálfstjórnarsvæðið Hong Kong)"
+zh_MO,"kínverska (Sjálfstjórnarsvæðið Makaó)"
+zh_TW,"kínverska (Taívan)"
+km,kmer
+km_KH,"kmer (Kambódía)"
+kw,kornbreska
+kw_GB,"kornbreska (Bretland)"
+ko,kóreska
+ko_KP,"kóreska (Norður-Kórea)"
+ko_KR,"kóreska (Suður-Kórea)"
+hr,króatíska
+hr_BA,"króatíska (Bosnía og Hersegóvína)"
+hr_HR,"króatíska (Króatía)"
+qu,kvesjúa
+qu_BO,"kvesjúa (Bólivía)"
+qu_EC,"kvesjúa (Ekvador)"
+qu_PE,"kvesjúa (Perú)"
+lo,laó
+lo_LA,"laó (Laos)"
+lv,lettneska
+lv_LV,"lettneska (Lettland)"
+ln,lingala
+ln_AO,"lingala (Angóla)"
+ln_CG,"lingala (Kongó-Brazzaville)"
+ln_CD,"lingala (Kongó-Kinshasa)"
+ln_CF,"lingala (Mið-Afríkulýðveldið)"
+lt,litháíska
+lt_LT,"litháíska (Litháen)"
+lu,lúbakatanga
+lu_CD,"lúbakatanga (Kongó-Kinshasa)"
+lb,lúxemborgíska
+lb_LU,"lúxemborgíska (Lúxemborg)"
+mk,makedónska
+mk_MK,"makedónska (Makedónía)"
+mg,malagasíska
+mg_MG,"malagasíska (Madagaskar)"
+ms,malaíska
+ms_BN,"malaíska (Brúnei)"
+ms_Latn_BN,"malaíska (latneskt, Brúnei)"
+ms_Latn_MY,"malaíska (latneskt, Malasía)"
+ms_Latn_SG,"malaíska (latneskt, Singapúr)"
+ms_Latn,"malaíska (latneskt)"
+ms_MY,"malaíska (Malasía)"
+ms_SG,"malaíska (Singapúr)"
+ml,malajalam
+ml_IN,"malajalam (Indland)"
+mt,maltneska
+mt_MT,"maltneska (Malta)"
+gv,manska
+gv_IM,"manska (Mön)"
+mr,maratí
+mr_IN,"maratí (Indland)"
+mn,mongólska
+mn_Cyrl_MN,"mongólska (kyrillískt, Mongólía)"
+mn_Cyrl,"mongólska (kyrillískt)"
+mn_MN,"mongólska (Mongólía)"
+ne,nepalska
+ne_IN,"nepalska (Indland)"
+ne_NP,"nepalska (Nepal)"
+nd,norður-ndebele
+nd_ZW,"norður-ndebele (Simbabve)"
+se,norðursamíska
+se_FI,"norðursamíska (Finnland)"
+se_NO,"norðursamíska (Noregur)"
+se_SE,"norðursamíska (Svíþjóð)"
+no,norska
+no_NO,"norska (Noregur)"
+nb,"norskt bókmál"
+nb_NO,"norskt bókmál (Noregur)"
+nb_SJ,"norskt bókmál (Svalbarði og Jan Mayen)"
+nn,nýnorska
+nn_NO,"nýnorska (Noregur)"
+om,oromo
+om_ET,"oromo (Eþíópía)"
+om_KE,"oromo (Kenía)"
+os,ossetíska
+os_GE,"ossetíska (Georgía)"
+os_RU,"ossetíska (Rússland)"
+or,óría
+or_IN,"óría (Indland)"
+ps,pastú
+ps_AF,"pastú (Afganistan)"
+fa,persneska
+fa_AF,"persneska (Afganistan)"
+fa_IR,"persneska (Íran)"
+pt,portúgalska
+pt_AO,"portúgalska (Angóla)"
+pt_BR,"portúgalska (Brasilía)"
+pt_GW,"portúgalska (Gínea-Bissá)"
+pt_CV,"portúgalska (Grænhöfðaeyjar)"
+pt_MZ,"portúgalska (Mósambík)"
+pt_PT,"portúgalska (Portúgal)"
+pt_ST,"portúgalska (Saó Tóme og Prinsípe)"
+pt_MO,"portúgalska (Sjálfstjórnarsvæðið Makaó)"
+pt_TL,"portúgalska (Tímor-Leste)"
+pl,pólska
+pl_PL,"pólska (Pólland)"
+pa,púnjabí
+pa_Arab_PK,"púnjabí (arabískt, Pakistan)"
+pa_Arab,"púnjabí (arabískt)"
+pa_Guru_IN,"púnjabí (gurmukhi, Indland)"
+pa_Guru,"púnjabí (gurmukhi)"
+pa_IN,"púnjabí (Indland)"
+pa_PK,"púnjabí (Pakistan)"
+rm,rómanska
+rm_CH,"rómanska (Sviss)"
+ro,rúmenska
+ro_MD,"rúmenska (Moldóva)"
+ro_RO,"rúmenska (Rúmenía)"
+rn,rúndí
+rn_BI,"rúndí (Búrúndí)"
+ru,rússneska
+ru_BY,"rússneska (Hvíta-Rússland)"
+ru_KZ,"rússneska (Kasakstan)"
+ru_KG,"rússneska (Kirgistan)"
+ru_MD,"rússneska (Moldóva)"
+ru_RU,"rússneska (Rússland)"
+ru_UA,"rússneska (Úkraína)"
+sg,sangó
+sg_CF,"sangó (Mið-Afríkulýðveldið)"
+sr,serbneska
+sr_BA,"serbneska (Bosnía og Hersegóvína)"
+sr_XK,"serbneska (Kósóvó)"
+sr_Cyrl_BA,"serbneska (kyrillískt, Bosnía og Hersegóvína)"
+sr_Cyrl_XK,"serbneska (kyrillískt, Kósóvó)"
+sr_Cyrl_RS,"serbneska (kyrillískt, Serbía)"
+sr_Cyrl_ME,"serbneska (kyrillískt, Svartfjallaland)"
+sr_Cyrl,"serbneska (kyrillískt)"
+sr_Latn_BA,"serbneska (latneskt, Bosnía og Hersegóvína)"
+sr_Latn_XK,"serbneska (latneskt, Kósóvó)"
+sr_Latn_RS,"serbneska (latneskt, Serbía)"
+sr_Latn_ME,"serbneska (latneskt, Svartfjallaland)"
+sr_Latn,"serbneska (latneskt)"
+sr_RS,"serbneska (Serbía)"
+sr_ME,"serbneska (Svartfjallaland)"
+sh,serbókróatíska
+sh_BA,"serbókróatíska (Bosnía og Hersegóvína)"
+sn,shona
+sn_ZW,"shona (Simbabve)"
+si,singalíska
+si_LK,"singalíska (Srí Lanka)"
+ii,sísúanjí
+ii_CN,"sísúanjí (Kína)"
+gd,"skosk gelíska"
+gd_GB,"skosk gelíska (Bretland)"
+sk,slóvakíska
+sk_SK,"slóvakíska (Slóvakía)"
+sl,slóvenska
+sl_SI,"slóvenska (Slóvenía)"
+so,sómalska
+so_DJ,"sómalska (Djíbútí)"
+so_ET,"sómalska (Eþíópía)"
+so_KE,"sómalska (Kenía)"
+so_SO,"sómalska (Sómalía)"
+es,spænska
+es_AR,"spænska (Argentína)"
+es_US,"spænska (Bandaríkin)"
+es_BO,"spænska (Bólivía)"
+es_EA,"spænska (Ceuta og Melilla)"
+es_DO,"spænska (Dóminíska lýðveldið)"
+es_EC,"spænska (Ekvador)"
+es_SV,"spænska (El Salvador)"
+es_PH,"spænska (Filippseyjar)"
+es_GT,"spænska (Gvatemala)"
+es_HN,"spænska (Hondúras)"
+es_IC,"spænska (Kanaríeyjar)"
+es_CR,"spænska (Kostaríka)"
+es_CO,"spænska (Kólumbía)"
+es_CU,"spænska (Kúba)"
+es_MX,"spænska (Mexíkó)"
+es_GQ,"spænska (Miðbaugs-Gínea)"
+es_NI,"spænska (Níkaragva)"
+es_PA,"spænska (Panama)"
+es_PY,"spænska (Paragvæ)"
+es_PE,"spænska (Perú)"
+es_PR,"spænska (Púertó Ríkó)"
+es_CL,"spænska (Síle)"
+es_ES,"spænska (Spánn)"
+es_UY,"spænska (Úrúgvæ)"
+es_VE,"spænska (Venesúela)"
+zu,súlú
+zu_ZA,"súlú (Suður-Afríka)"
+sw,svahílí
+sw_KE,"svahílí (Kenía)"
+sw_TZ,"svahílí (Tansanía)"
+sw_UG,"svahílí (Úganda)"
+sv,sænska
+sv_AX,"sænska (Álandseyjar)"
+sv_FI,"sænska (Finnland)"
+sv_SE,"sænska (Svíþjóð)"
+tl,tagalog
+tl_PH,"tagalog (Filippseyjar)"
+th,taílenska
+th_TH,"taílenska (Taíland)"
+ta,tamílska
+ta_IN,"tamílska (Indland)"
+ta_MY,"tamílska (Malasía)"
+ta_SG,"tamílska (Singapúr)"
+ta_LK,"tamílska (Srí Lanka)"
+te,telúgú
+te_IN,"telúgú (Indland)"
+cs,tékkneska
+cs_CZ,"tékkneska (Tékkland)"
+bo,tíbeska
+bo_IN,"tíbeska (Indland)"
+bo_CN,"tíbeska (Kína)"
+ti,tígrinja
+ti_ER,"tígrinja (Erítrea)"
+ti_ET,"tígrinja (Eþíópía)"
+to,tongverska
+to_TO,"tongverska (Tonga)"
+tr,tyrkneska
+tr_CY,"tyrkneska (Kýpur)"
+tr_TR,"tyrkneska (Tyrkland)"
+hu,ungverska
+hu_HU,"ungverska (Ungverjaland)"
+ug,úígúr
+ug_Arab_CN,"úígúr (arabískt, Kína)"
+ug_Arab,"úígúr (arabískt)"
+ug_CN,"úígúr (Kína)"
+uk,úkraínska
+uk_UA,"úkraínska (Úkraína)"
+ur,úrdú
+ur_IN,"úrdú (Indland)"
+ur_PK,"úrdú (Pakistan)"
+uz,úsbekska
+uz_AF,"úsbekska (Afganistan)"
+uz_Arab_AF,"úsbekska (arabískt, Afganistan)"
+uz_Arab,"úsbekska (arabískt)"
+uz_Cyrl_UZ,"úsbekska (kyrillískt, Úsbekistan)"
+uz_Cyrl,"úsbekska (kyrillískt)"
+uz_Latn_UZ,"úsbekska (latneskt, Úsbekistan)"
+uz_Latn,"úsbekska (latneskt)"
+uz_UZ,"úsbekska (Úsbekistan)"
+cy,velska
+cy_GB,"velska (Bretland)"
+fy,vesturfrísneska
+fy_NL,"vesturfrísneska (Holland)"
+vi,víetnamska
+vi_VN,"víetnamska (Víetnam)"
+de,þýska
+de_AT,"þýska (Austurríki)"
+de_BE,"þýska (Belgía)"
+de_LI,"þýska (Liechtenstein)"
+de_LU,"þýska (Lúxemborg)"
+de_CH,"þýska (Sviss)"
+de_DE,"þýska (Þýskaland)"

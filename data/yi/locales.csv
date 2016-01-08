@@ -1,0 +1,564 @@
+id,value
+uz,אוזבעקיש
+uz_AF,"אוזבעקיש (אַפֿגהאַניסטאַן)"
+uz_Arab_AF,"אוזבעקיש (אַראַביש, אַפֿגהאַניסטאַן)"
+uz_Arab,"אוזבעקיש (אַראַביש)"
+uz_Latn,"אוזבעקיש (גַלחיש)"
+uz_Cyrl,"אוזבעקיש (ציריליש)"
+hu,אונגעריש
+hu_HU,"אונגעריש (אונגערן)"
+uk,אוקראַאיניש
+uk_UA,"אוקראַאיניש (אוקראַינע)"
+ur,אורדו
+ur_IN,"אורדו (אינדיע)"
+ur_PK,"אורדו (פּאַקיסטאַן)"
+az,אַזערביידזשאַניש
+az_Latn,"אַזערביידזשאַניש (גַלחיש)"
+az_Cyrl,"אַזערביידזשאַניש (ציריליש)"
+it,איטאַליעניש
+it_IT,"איטאַליעניש (איטאַליע)"
+it_SM,"איטאַליעניש (סאַן מאַרינא)"
+it_CH,"איטאַליעניש (שווייץ)"
+id,אינדאנעזיש
+id_ID,"אינדאנעזיש (אינדאנעזיע)"
+is,איסלאַנדיש
+is_IS,"איסלאַנדיש (איסלאַנד)"
+ga,איריש
+ga_IE,"איריש (אירלאַנד)"
+sq,אַלבאַניש
+sq_AL,"אַלבאַניש (אַלבאַניע)"
+sq_MK,"אַלבאַניש (מאַקעדאניע)"
+sq_XK,"אַלבאַניש (קאסאווא)"
+am,אַמהאַריש
+am_ET,"אַמהאַריש (עטיאפּיע)"
+as,אַסאַמיש
+as_IN,"אַסאַמיש (אינדיע)"
+os,אסעטיש
+os_GE,"אסעטיש (גרוזיע)"
+os_RU,"אסעטיש (רוסלאַנד)"
+af,אַפֿריקאַנס
+af_ZA,"אַפֿריקאַנס (דרום־אַפֿריקע)"
+af_NA,"אַפֿריקאַנס (נאַמיביע)"
+ar,אַראַביש
+ar_DJ,"אַראַביש (דזשיבוטי)"
+ar_SS,"אַראַביש (דרום־סודאַן)"
+ar_TN,"אַראַביש (טוניסיע)"
+ar_TD,"אַראַביש (טשאַד)"
+ar_IL,"אַראַביש (ישראל)"
+ar_LB,"אַראַביש (לבנון)"
+ar_LY,"אַראַביש (ליביע)"
+ar_MA,"אַראַביש (מאַראקא)"
+ar_MR,"אַראַביש (מאַריטאַניע)"
+ar_SO,"אַראַביש (סאמאַליע)"
+ar_SD,"אַראַביש (סודאַן)"
+ar_SY,"אַראַביש (סיריע)"
+ar_EG,"אַראַביש (עגיפּטן)"
+ar_ER,"אַראַביש (עריטרעע)"
+ar_QA,"אַראַביש (קאַטאַר)"
+ar_KM,"אַראַביש (קאמאראס)"
+ar_YE,"אַראַביש (תימן)"
+hy,אַרמעניש
+hy_AM,"אַרמעניש (אַרמעניע)"
+bs,באסניש
+bs_BA,"באסניש (באסניע הערצעגאווינע)"
+bs_Latn_BA,"באסניש (גַלחיש, באסניע הערצעגאווינע)"
+bs_Latn,"באסניש (גַלחיש)"
+bs_Cyrl_BA,"באסניש (ציריליש, באסניע הערצעגאווינע)"
+bs_Cyrl,"באסניש (ציריליש)"
+eu,באַסקיש
+eu_ES,"באַסקיש (שפּאַניע)"
+bg,בולגאַריש
+bg_BG,"בולגאַריש (בולגאַריע)"
+my,בירמאַניש
+my_MM,"בירמאַניש (מיאַנמאַר)"
+be,בעלאַרוסיש
+be_BY,"בעלאַרוסיש (בעלאַרוס)"
+bn,בענגאַליש
+bn_IN,"בענגאַליש (אינדיע)"
+bn_BD,"בענגאַליש (באַנגלאַדעש)"
+br,ברעטאניש
+br_FR,"ברעטאניש (פֿראַנקרייך)"
+gl,גאַלישיש
+gl_ES,"גאַלישיש (שפּאַניע)"
+ka,גרוזיניש
+ka_GE,"גרוזיניש (גרוזיע)"
+el,גריכיש
+el_GR,"גריכיש (גריכנלאַנד)"
+de,דײַטש
+de_BE,"דײַטש (בעלגיע)"
+de_DE,"דײַטש (דייטשלאַנד)"
+de_LU,"דײַטש (לוקסעמבורג)"
+de_LI,"דײַטש (ליכטנשטיין)"
+de_AT,"דײַטש (עסטרייך)"
+de_CH,"דײַטש (שווייץ)"
+da,דעניש
+da_GL,"דעניש (גרינלאַנד)"
+da_DK,"דעניש (דענמאַרק)"
+ha,האַוסאַ
+ha_GH,"האַוסאַ (גהאַנע)"
+ha_Latn_GH,"האַוסאַ (גַלחיש, גהאַנע)"
+ha_Latn_NG,"האַוסאַ (גַלחיש, ניגעריע)"
+ha_Latn_NE,"האַוסאַ (גַלחיש, ניזשער)"
+ha_Latn,"האַוסאַ (גַלחיש)"
+ha_NG,"האַוסאַ (ניגעריע)"
+ha_NE,"האַוסאַ (ניזשער)"
+nl,האלענדיש
+nl_AW,"האלענדיש (אַרובאַ)"
+nl_BE,"האלענדיש (בעלגיע)"
+nl_NL,"האלענדיש (האלאַנד)"
+nl_SR,"האלענדיש (סורינאַם)"
+nl_CW,"האלענדיש (קוראַסאַא)"
+hi,הינדי
+hi_IN,"הינדי (אינדיע)"
+he,העברעאיש
+he_IL,"העברעאיש (ישראל)"
+vi,וויעטנאַמעזיש
+vi_VN,"וויעטנאַמעזיש (וויעטנאַם)"
+cy,וועלשיש
+cy_GB,"וועלשיש (פֿאַראייניגטע קעניגרייך)"
+zu,זולו
+zu_ZA,"זולו (דרום־אַפֿריקע)"
+tl,טאַגאַלאג
+tl_PH,"טאַגאַלאג (פֿיליפּינען)"
+ta,טאַמיל
+ta_IN,"טאַמיל (אינדיע)"
+ta_MY,"טאַמיל (מאַלייזיע)"
+ta_SG,"טאַמיל (סינגאַפּור)"
+ta_LK,"טאַמיל (סרי־לאַנקאַ)"
+bo,טיבעטיש
+bo_IN,"טיבעטיש (אינדיע)"
+bo_CN,"טיבעטיש (כינע)"
+cs,טשעכיש
+cs_CZ,"טשעכיש (טשעכיי)"
+ja,יאַפּאַניש
+ja_JP,"יאַפּאַניש (יאַפּאַן)"
+yi,ייִדיש
+zh,כינעזיש
+zh_CN,"כינעזיש (כינע)"
+zh_SG,"כינעזיש (סינגאַפּור)"
+km,כמער
+km_KH,"כמער (קאַמבאדיע)"
+lo,לאַא
+lo_LA,"לאַא (לאַאס)"
+lb,לוקסעמבורגיש
+lb_LU,"לוקסעמבורגיש (לוקסעמבורג)"
+lt,ליטוויש
+lt_LT,"ליטוויש (ליטע)"
+lv,לעטיש
+lv_LV,"לעטיש (לעטלאַנד)"
+ml,מאַלאַיאַלאַם
+ml_IN,"מאַלאַיאַלאַם (אינדיע)"
+mt,מאַלטעזיש
+mt_MT,"מאַלטעזיש (מאַלטאַ)"
+mn,מאנגאליש
+mn_MN,"מאנגאליש (מאנגאליי)"
+mn_Cyrl_MN,"מאנגאליש (ציריליש, מאנגאליי)"
+mn_Cyrl,"מאנגאליש (ציריליש)"
+gv,מאַנקס
+mk,מאַקעדאניש
+mk_MK,"מאַקעדאניש (מאַקעדאניע)"
+fy,מערב־פֿריזיש
+fy_NL,"מערב־פֿריזיש (האלאַנד)"
+se,נארדסאַמיש
+se_NO,"נארדסאַמיש (נארוועגיע)"
+se_FI,"נארדסאַמיש (פֿינלאַנד)"
+se_SE,"נארדסאַמיש (שוועדן)"
+no,נארוועגיש
+no_NO,"נארוועגיש (נארוועגיע)"
+nn,נײַ־נארוועגיש
+nn_NO,"נײַ־נארוועגיש (נארוועגיע)"
+ne,נעפּאַליש
+ne_IN,"נעפּאַליש (אינדיע)"
+ne_NP,"נעפּאַליש (נעפּאַל)"
+so,סאמאַליש
+so_DJ,"סאמאַליש (דזשיבוטי)"
+so_SO,"סאמאַליש (סאמאַליע)"
+so_ET,"סאמאַליש (עטיאפּיע)"
+so_KE,"סאמאַליש (קעניע)"
+sw,סוואַהיליש
+sw_UG,"סוואַהיליש (אוגאַנדע)"
+sw_TZ,"סוואַהיליש (טאַנזאַניע)"
+sw_KE,"סוואַהיליש (קעניע)"
+si,סינהאַליש
+si_LK,"סינהאַליש (סרי־לאַנקאַ)"
+sk,סלאוואַקיש
+sk_SK,"סלאוואַקיש (סלאוואַקיי)"
+sl,סלאוועניש
+sl_SI,"סלאוועניש (סלאוועניע)"
+sh,סערבא־קראאַטיש
+sh_BA,"סערבא־קראאַטיש (באסניע הערצעגאווינע)"
+sr,סערביש
+sr_BA,"סערביש (באסניע הערצעגאווינע)"
+sr_Latn_BA,"סערביש (גַלחיש, באסניע הערצעגאווינע)"
+sr_Latn_ME,"סערביש (גַלחיש, מאנטענעגרא)"
+sr_Latn_RS,"סערביש (גַלחיש, סערביע)"
+sr_Latn_XK,"סערביש (גַלחיש, קאסאווא)"
+sr_Latn,"סערביש (גַלחיש)"
+sr_ME,"סערביש (מאנטענעגרא)"
+sr_RS,"סערביש (סערביע)"
+sr_Cyrl_BA,"סערביש (ציריליש, באסניע הערצעגאווינע)"
+sr_Cyrl_ME,"סערביש (ציריליש, מאנטענעגרא)"
+sr_Cyrl_RS,"סערביש (ציריליש, סערביע)"
+sr_Cyrl_XK,"סערביש (ציריליש, קאסאווא)"
+sr_Cyrl,"סערביש (ציריליש)"
+sr_XK,"סערביש (קאסאווא)"
+gd,"סקאטיש געליש"
+gd_GB,"סקאטיש געליש (פֿאַראייניגטע קעניגרייך)"
+en,ענגליש
+en_UG,"ענגליש (אוגאַנדע)"
+en_AU,"ענגליש (אויסטראַליע)"
+en_IN,"ענגליש (אינדיע)"
+en_IE,"ענגליש (אירלאַנד)"
+en_AG,"ענגליש (אַנטיגוע און באַרבודע)"
+en_BS,"ענגליש (באַהאַמאַס)"
+en_BW,"ענגליש (באצוואַנע)"
+en_BB,"ענגליש (באַרבאַדאס)"
+en_BE,"ענגליש (בעלגיע)"
+en_BZ,"ענגליש (בעליז)"
+en_BM,"ענגליש (בערמודע)"
+en_GM,"ענגליש (גאַמביע)"
+en_GH,"ענגליש (גהאַנע)"
+en_GU,"ענגליש (גוואַם)"
+en_GY,"ענגליש (גויאַנע)"
+en_GI,"ענגליש (גיבראַלטאַר)"
+en_GG,"ענגליש (גערנזי)"
+en_GD,"ענגליש (גרענאַדאַ)"
+en_DM,"ענגליש (דאמיניקע)"
+en_JM,"ענגליש (דזשאַמייקע)"
+en_JE,"ענגליש (דזשערזי)"
+en_ZA,"ענגליש (דרום־אַפֿריקע)"
+en_SS,"ענגליש (דרום־סודאַן)"
+en_VU,"ענגליש (וואַנואַטו)"
+en_ZM,"ענגליש (זאַמביע)"
+en_ZW,"ענגליש (זימבאַבווע)"
+en_TO,"ענגליש (טאנגאַ)"
+en_TZ,"ענגליש (טאַנזאַניע)"
+en_TV,"ענגליש (טואוואַלו)"
+en_TT,"ענגליש (טרינידאַד און טאבאַגא)"
+en_LR,"ענגליש (ליבעריע)"
+en_LS,"ענגליש (לעסאטא)"
+en_MG,"ענגליש (מאַדאַגאַסקאַר)"
+en_MW,"ענגליש (מאַלאַווי)"
+en_MT,"ענגליש (מאַלטאַ)"
+en_MY,"ענגליש (מאַלייזיע)"
+en_MS,"ענגליש (מאנטסעראַט)"
+en_MU,"ענגליש (מאריציוס)"
+en_MH,"ענגליש (מאַרשאַל אינזלען)"
+en_FM,"ענגליש (מיקראנעזיע)"
+en_NA,"ענגליש (נאַמיביע)"
+en_NF,"ענגליש (נארפֿאלק אינזל)"
+en_NG,"ענגליש (ניגעריע)"
+en_NZ,"ענגליש (ניו זילאַנד)"
+en_SB,"ענגליש (סאלאמאן אינזלען)"
+en_WS,"ענגליש (סאַמאאַ)"
+en_SZ,"ענגליש (סוואַזילאַנד)"
+en_SD,"ענגליש (סודאַן)"
+en_SH,"ענגליש (סט העלענע)"
+en_SG,"ענגליש (סינגאַפּור)"
+en_SL,"ענגליש (סיערע לעאנע)"
+en_SC,"ענגליש (סיישעל)"
+en_ER,"ענגליש (עריטרעע)"
+en_PG,"ענגליש (פּאַפּואַ נײַ גינע)"
+en_PK,"ענגליש (פּאַקיסטאַן)"
+en_PR,"ענגליש (פּארטא־ריקא)"
+en_PN,"ענגליש (פּיטקערן אינזלען)"
+en_FK,"ענגליש (פֿאַלקלאַנד אינזלען)"
+en_GB,"ענגליש (פֿאַראייניגטע קעניגרייך)"
+en_US,"ענגליש (פֿאַראייניגטע שטאַטן)"
+en_FJ,"ענגליש (פֿידזשי)"
+en_PH,"ענגליש (פֿיליפּינען)"
+en_CM,"ענגליש (קאַמערון)"
+en_CA,"ענגליש (קאַנאַדע)"
+en_CK,"ענגליש (קוק אינזלען)"
+en_KY,"ענגליש (קיימאַן אינזלען)"
+en_KI,"ענגליש (קיריבאַטי)"
+en_KE,"ענגליש (קעניע)"
+en_RW,"ענגליש (רוואַנדע)"
+et,עסטיש
+et_EE,"עסטיש (עסטלאַנד)"
+eo,עספּעראַנטא
+pt,פּארטוגעזיש
+pt_AO,"פּארטוגעזיש (אַנגאלע)"
+pt_BR,"פּארטוגעזיש (בראַזיל)"
+pt_GW,"פּארטוגעזיש (גינע־ביסאַו)"
+pt_MZ,"פּארטוגעזיש (מאזאַמביק)"
+pt_ST,"פּארטוגעזיש (סאַא טאמע און פּרינסיפּע)"
+pt_PT,"פּארטוגעזיש (פּארטוגאַל)"
+pt_CV,"פּארטוגעזיש (קאַפּווערדישע אינזלען)"
+ps,פּאַשטאָ
+ps_AF,"פּאַשטאָ (אַפֿגהאַניסטאַן)"
+pl,פּויליש
+pl_PL,"פּויליש (פּוילן)"
+fa,פּערסיש
+fa_IR,"פּערסיש (איראַן)"
+fa_AF,"פּערסיש (אַפֿגהאַניסטאַן)"
+fo,פֿאַראיש
+fo_FO,"פֿאַראיש (פֿאַרא אינזלען)"
+fi,פֿיניש
+fi_FI,"פֿיניש (פֿינלאַנד)"
+fr,פֿראַנצויזיש
+fr_BI,"פֿראַנצויזיש (בורונדי)"
+fr_BF,"פֿראַנצויזיש (בורקינע פֿאַסא)"
+fr_BE,"פֿראַנצויזיש (בעלגיע)"
+fr_BJ,"פֿראַנצויזיש (בענין)"
+fr_GA,"פֿראַנצויזיש (גאַבאן)"
+fr_GP,"פֿראַנצויזיש (גוואַדעלופ)"
+fr_GN,"פֿראַנצויזיש (גינע)"
+fr_DJ,"פֿראַנצויזיש (דזשיבוטי)"
+fr_HT,"פֿראַנצויזיש (האַיטי)"
+fr_CI,"פֿראַנצויזיש (העלפֿאַ נדביין בארטן)"
+fr_VU,"פֿראַנצויזיש (וואַנואַטו)"
+fr_TG,"פֿראַנצויזיש (טאגא)"
+fr_TN,"פֿראַנצויזיש (טוניסיע)"
+fr_TD,"פֿראַנצויזיש (טשאַד)"
+fr_LU,"פֿראַנצויזיש (לוקסעמבורג)"
+fr_MG,"פֿראַנצויזיש (מאַדאַגאַסקאַר)"
+fr_YT,"פֿראַנצויזיש (מאַיאט)"
+fr_ML,"פֿראַנצויזיש (מאַלי)"
+fr_MC,"פֿראַנצויזיש (מאנאַקא)"
+fr_MA,"פֿראַנצויזיש (מאַראקא)"
+fr_MQ,"פֿראַנצויזיש (מאַרטיניק)"
+fr_MR,"פֿראַנצויזיש (מאַריטאַניע)"
+fr_MU,"פֿראַנצויזיש (מאריציוס)"
+fr_NC,"פֿראַנצויזיש (נײַ קאַלעדאניע)"
+fr_NE,"פֿראַנצויזיש (ניזשער)"
+fr_SY,"פֿראַנצויזיש (סיריע)"
+fr_SC,"פֿראַנצויזיש (סיישעל)"
+fr_SN,"פֿראַנצויזיש (סענעגאַל)"
+fr_GQ,"פֿראַנצויזיש (עקוואַטארישע גינע)"
+fr_GF,"פֿראַנצויזיש (פֿראַנצויזישע גויאַנע)"
+fr_PF,"פֿראַנצויזיש (פֿראַנצויזישע פּאלינעזיע)"
+fr_FR,"פֿראַנצויזיש (פֿראַנקרייך)"
+fr_CF,"פֿראַנצויזיש (צענטראַל־אַפֿריקאַנישע רעפּובליק)"
+fr_KM,"פֿראַנצויזיש (קאמאראס)"
+fr_CM,"פֿראַנצויזיש (קאַמערון)"
+fr_CA,"פֿראַנצויזיש (קאַנאַדע)"
+fr_CD,"פֿראַנצויזיש (קאנגא־קינשאַזע)"
+fr_RW,"פֿראַנצויזיש (רוואַנדע)"
+fr_RE,"פֿראַנצויזיש (רעאוניאן)"
+fr_CH,"פֿראַנצויזיש (שווייץ)"
+kk,קאַזאַכיש
+kk_Cyrl,"קאַזאַכיש (ציריליש)"
+ca,קאַטאַלאניש
+ca_IT,"קאַטאַלאניש (איטאַליע)"
+ca_AD,"קאַטאַלאניש (אַנדארע)"
+ca_FR,"קאַטאַלאניש (פֿראַנקרייך)"
+ca_ES,"קאַטאַלאניש (שפּאַניע)"
+kn,קאַנאַדאַ
+kn_IN,"קאַנאַדאַ (אינדיע)"
+kw,קארניש
+kw_GB,"קארניש (פֿאַראייניגטע קעניגרייך)"
+ko,קארעאיש
+ky,קירגיזיש
+ky_Cyrl,"קירגיזיש (ציריליש)"
+hr,קראאַטיש
+hr_BA,"קראאַטיש (באסניע הערצעגאווינע)"
+hr_HR,"קראאַטיש (קראאַטיע)"
+ro,רומעניש
+ro_MD,"רומעניש (מאלדאווע)"
+ro_RO,"רומעניש (רומעניע)"
+ru,רוסיש
+ru_UA,"רוסיש (אוקראַינע)"
+ru_BY,"רוסיש (בעלאַרוס)"
+ru_MD,"רוסיש (מאלדאווע)"
+ru_RU,"רוסיש (רוסלאַנד)"
+sn,שאנאַ
+sn_ZW,"שאנאַ (זימבאַבווע)"
+sv,שוועדיש
+sv_FI,"שוועדיש (פֿינלאַנד)"
+sv_SE,"שוועדיש (שוועדן)"
+es,שפּאַניש
+es_UY,"שפּאַניש (אורוגוויי)"
+es_AR,"שפּאַניש (אַרגענטינע)"
+es_BO,"שפּאַניש (באליוויע)"
+es_GT,"שפּאַניש (גוואַטעמאַלע)"
+es_DO,"שפּאַניש (דאמיניקאַנישע רעפּובליק)"
+es_HN,"שפּאַניש (האנדוראַס)"
+es_VE,"שפּאַניש (ווענעזועלע)"
+es_CL,"שפּאַניש (טשילע)"
+es_MX,"שפּאַניש (מעקסיקע)"
+es_NI,"שפּאַניש (ניקאַראַגוע)"
+es_SV,"שפּאַניש (על סאַלוואַדאר)"
+es_EC,"שפּאַניש (עקוואַדאר)"
+es_GQ,"שפּאַניש (עקוואַטארישע גינע)"
+es_PA,"שפּאַניש (פּאַנאַמאַ)"
+es_PY,"שפּאַניש (פּאַראַגווײַ)"
+es_PR,"שפּאַניש (פּארטא־ריקא)"
+es_PE,"שפּאַניש (פּערו)"
+es_US,"שפּאַניש (פֿאַראייניגטע שטאַטן)"
+es_PH,"שפּאַניש (פֿיליפּינען)"
+es_CO,"שפּאַניש (קאלאמביע)"
+es_IC,"שפּאַניש (קאַנאַרישע אינזלען)"
+es_CR,"שפּאַניש (קאסטאַ ריקאַ)"
+es_CU,"שפּאַניש (קובאַ)"
+es_ES,"שפּאַניש (שפּאַניע)"
+ak,Akan
+ak_GH,"Akan (Ghana)"
+ar_DZ,"Arabic (Algeria)"
+ar_BH,"Arabic (Bahrain)"
+ar_IQ,"Arabic (Iraq)"
+ar_JO,"Arabic (Jordan)"
+ar_KW,"Arabic (Kuwait)"
+ar_OM,"Arabic (Oman)"
+ar_PS,"Arabic (Palestinian Territories)"
+ar_SA,"Arabic (Saudi Arabia)"
+ar_AE,"Arabic (United Arab Emirates)"
+ar_EH,"Arabic (Western Sahara)"
+az_AZ,"Azerbaijani (Azerbaijan)"
+az_Cyrl_AZ,"Azerbaijani (Cyrillic, Azerbaijan)"
+az_Latn_AZ,"Azerbaijani (Latin, Azerbaijan)"
+bm,Bambara
+bm_Latn_ML,"Bambara (Latin, Mali)"
+bm_Latn,"Bambara (Latin)"
+zh_HK,"Chinese (Hong Kong SAR China)"
+zh_MO,"Chinese (Macau SAR China)"
+zh_Hans_CN,"Chinese (Simplified, China)"
+zh_Hans_HK,"Chinese (Simplified, Hong Kong SAR China)"
+zh_Hans_MO,"Chinese (Simplified, Macau SAR China)"
+zh_Hans_SG,"Chinese (Simplified, Singapore)"
+zh_Hans,"Chinese (Simplified)"
+zh_TW,"Chinese (Taiwan)"
+zh_Hant_HK,"Chinese (Traditional, Hong Kong SAR China)"
+zh_Hant_MO,"Chinese (Traditional, Macau SAR China)"
+zh_Hant_TW,"Chinese (Traditional, Taiwan)"
+zh_Hant,"Chinese (Traditional)"
+nl_BQ,"Dutch (Caribbean Netherlands)"
+nl_SX,"Dutch (Sint Maarten)"
+dz,Dzongkha
+dz_BT,"Dzongkha (Bhutan)"
+en_AS,"English (American Samoa)"
+en_AI,"English (Anguilla)"
+en_IO,"English (British Indian Ocean Territory)"
+en_VG,"English (British Virgin Islands)"
+en_CX,"English (Christmas Island)"
+en_CC,"English (Cocos (Keeling) Islands)"
+en_DG,"English (Diego Garcia)"
+en_HK,"English (Hong Kong SAR China)"
+en_IM,"English (Isle of Man)"
+en_MO,"English (Macau SAR China)"
+en_NR,"English (Nauru)"
+en_NU,"English (Niue)"
+en_MP,"English (Northern Mariana Islands)"
+en_PW,"English (Palau)"
+en_SX,"English (Sint Maarten)"
+en_KN,"English (St. Kitts & Nevis)"
+en_LC,"English (St. Lucia)"
+en_VC,"English (St. Vincent & Grenadines)"
+en_TK,"English (Tokelau)"
+en_TC,"English (Turks & Caicos Islands)"
+en_UM,"English (U.S. Outlying Islands)"
+en_VI,"English (U.S. Virgin Islands)"
+ee,Ewe
+ee_GH,"Ewe (Ghana)"
+ee_TG,"Ewe (Togo)"
+fr_DZ,"French (Algeria)"
+fr_CG,"French (Congo - Brazzaville)"
+fr_BL,"French (St. Barthélemy)"
+fr_MF,"French (St. Martin)"
+fr_PM,"French (St. Pierre & Miquelon)"
+fr_WF,"French (Wallis & Futuna)"
+ff,Fulah
+ff_CM,"Fulah (Cameroon)"
+ff_GN,"Fulah (Guinea)"
+ff_MR,"Fulah (Mauritania)"
+ff_SN,"Fulah (Senegal)"
+lg,Ganda
+lg_UG,"Ganda (Uganda)"
+el_CY,"Greek (Cyprus)"
+gu,Gujarati
+gu_IN,"Gujarati (India)"
+ig,Igbo
+ig_NG,"Igbo (Nigeria)"
+kl,Kalaallisut
+kl_GL,"Kalaallisut (Greenland)"
+ks,Kashmiri
+ks_Arab_IN,"Kashmiri (Arabic, India)"
+ks_Arab,"Kashmiri (Arabic)"
+ks_IN,"Kashmiri (India)"
+kk_Cyrl_KZ,"Kazakh (Cyrillic, Kazakhstan)"
+kk_KZ,"Kazakh (Kazakhstan)"
+ki,Kikuyu
+ki_KE,"Kikuyu (Kenya)"
+rw,Kinyarwanda
+rw_RW,"Kinyarwanda (Rwanda)"
+ko_KP,"Korean (North Korea)"
+ko_KR,"Korean (South Korea)"
+ky_Cyrl_KG,"Kyrgyz (Cyrillic, Kyrgyzstan)"
+ky_KG,"Kyrgyz (Kyrgyzstan)"
+ln,Lingala
+ln_AO,"Lingala (Angola)"
+ln_CF,"Lingala (Central African Republic)"
+ln_CG,"Lingala (Congo - Brazzaville)"
+ln_CD,"Lingala (Congo - Kinshasa)"
+lu,Luba-Katanga
+lu_CD,"Luba-Katanga (Congo - Kinshasa)"
+mg,Malagasy
+mg_MG,"Malagasy (Madagascar)"
+ms,Malay
+ms_BN,"Malay (Brunei)"
+ms_Latn_BN,"Malay (Latin, Brunei)"
+ms_Latn_MY,"Malay (Latin, Malaysia)"
+ms_Latn_SG,"Malay (Latin, Singapore)"
+ms_Latn,"Malay (Latin)"
+ms_MY,"Malay (Malaysia)"
+ms_SG,"Malay (Singapore)"
+gv_IM,"Manx (Isle of Man)"
+mr,Marathi
+mr_IN,"Marathi (India)"
+nd,"North Ndebele"
+nd_ZW,"North Ndebele (Zimbabwe)"
+nb,"Norwegian Bokmål"
+nb_NO,"Norwegian Bokmål (Norway)"
+nb_SJ,"Norwegian Bokmål (Svalbard & Jan Mayen)"
+or,Oriya
+or_IN,"Oriya (India)"
+om,Oromo
+om_ET,"Oromo (Ethiopia)"
+om_KE,"Oromo (Kenya)"
+pt_MO,"Portuguese (Macau SAR China)"
+pt_TL,"Portuguese (Timor-Leste)"
+pa,Punjabi
+pa_Arab_PK,"Punjabi (Arabic, Pakistan)"
+pa_Arab,"Punjabi (Arabic)"
+pa_Guru_IN,"Punjabi (Gurmukhi, India)"
+pa_Guru,"Punjabi (Gurmukhi)"
+pa_IN,"Punjabi (India)"
+pa_PK,"Punjabi (Pakistan)"
+qu,Quechua
+qu_BO,"Quechua (Bolivia)"
+qu_EC,"Quechua (Ecuador)"
+qu_PE,"Quechua (Peru)"
+rm,Romansh
+rm_CH,"Romansh (Switzerland)"
+rn,Rundi
+rn_BI,"Rundi (Burundi)"
+ru_KZ,"Russian (Kazakhstan)"
+ru_KG,"Russian (Kyrgyzstan)"
+sg,Sango
+sg_CF,"Sango (Central African Republic)"
+ii,"Sichuan Yi"
+ii_CN,"Sichuan Yi (China)"
+es_EA,"Spanish (Ceuta & Melilla)"
+sv_AX,"Swedish (Åland Islands)"
+te,Telugu
+te_IN,"Telugu (India)"
+th,Thai
+th_TH,"Thai (Thailand)"
+ti,Tigrinya
+ti_ER,"Tigrinya (Eritrea)"
+ti_ET,"Tigrinya (Ethiopia)"
+to,Tongan
+to_TO,"Tongan (Tonga)"
+tr,Turkish
+tr_CY,"Turkish (Cyprus)"
+tr_TR,"Turkish (Turkey)"
+ug,Uyghur
+ug_Arab_CN,"Uyghur (Arabic, China)"
+ug_Arab,"Uyghur (Arabic)"
+ug_CN,"Uyghur (China)"
+uz_Cyrl_UZ,"Uzbek (Cyrillic, Uzbekistan)"
+uz_Latn_UZ,"Uzbek (Latin, Uzbekistan)"
+uz_UZ,"Uzbek (Uzbekistan)"
+yo,Yoruba
+yo_BJ,"Yoruba (Benin)"
+yo_NG,"Yoruba (Nigeria)"

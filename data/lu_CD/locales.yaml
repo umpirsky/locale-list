@@ -1,0 +1,563 @@
+af: Afrikaans
+af_NA: 'Afrikaans (Namibia)'
+af_ZA: 'Afrikaans (South Africa)'
+sq: Albanian
+sq_AL: 'Albanian (Albania)'
+sq_XK: 'Albanian (Kosovo)'
+sq_MK: 'Albanian (Macedonia)'
+ar: Arabi
+ar_SA: 'Arabi (Alabu Nsawudi)'
+ar_DZ: 'Arabi (Alijeri)'
+ar_BH: 'Arabi (Bahrene)'
+ar_DJ: 'Arabi (Djibuti)'
+ar_ER: 'Arabi (Elitele)'
+ar_IQ: 'Arabi (Iraki)'
+ar_IL: 'Arabi (Isirayele)'
+ar_JO: 'Arabi (Jodani)'
+ar_QA: 'Arabi (Katari)'
+ar_KM: 'Arabi (Komoru)'
+ar_KW: 'Arabi (Koweti)'
+ar_AE: 'Arabi (Lemila alabu)'
+ar_LB: 'Arabi (Liba)'
+ar_LY: 'Arabi (Libi)'
+ar_MA: 'Arabi (Maroke)'
+ar_MR: 'Arabi (Moritani)'
+ar_EG: 'Arabi (Mushidi)'
+ar_OM: 'Arabi (Omane)'
+ar_PS: 'Arabi (Palesine)'
+ar_SY: 'Arabi (Siri)'
+ar_SO: 'Arabi (Somali)'
+ar_SD: 'Arabi (Suda)'
+ar_TN: 'Arabi (Tinizi)'
+ar_TD: 'Arabi (Tshadi)'
+ar_YE: 'Arabi (Yemenu)'
+ar_SS: 'Arabic (South Sudan)'
+ar_EH: 'Arabic (Western Sahara)'
+hy: Armenian
+hy_AM: 'Armenian (Armenia)'
+as: Assamese
+as_IN: 'Assamese (India)'
+az: Azerbaijani
+az_AZ: 'Azerbaijani (Azerbaijan)'
+az_Cyrl_AZ: 'Azerbaijani (Cyrillic, Azerbaijan)'
+az_Cyrl: 'Azerbaijani (Cyrillic)'
+az_Latn_AZ: 'Azerbaijani (Latin, Azerbaijan)'
+az_Latn: 'Azerbaijani (Latin)'
+bm: Bambara
+bm_Latn_ML: 'Bambara (Latin, Mali)'
+bm_Latn: 'Bambara (Latin)'
+eu: Basque
+eu_ES: 'Basque (Spain)'
+be: Belarusi
+be_BY: 'Belarusi (Byelorisi)'
+bn: Bengali
+bn_BD: 'Bengali (Benguladeshi)'
+bn_IN: 'Bengali (Inde)'
+bs: Bosnian
+bs_BA: 'Bosnian (Bosnia & Herzegovina)'
+bs_Cyrl_BA: 'Bosnian (Cyrillic, Bosnia & Herzegovina)'
+bs_Cyrl: 'Bosnian (Cyrillic)'
+bs_Latn_BA: 'Bosnian (Latin, Bosnia & Herzegovina)'
+bs_Latn: 'Bosnian (Latin)'
+br: Breton
+br_FR: 'Breton (France)'
+bg: Bulegari
+bg_BG: 'Bulegari (Biligari)'
+my: Burmese
+my_MM: 'Burmese (Myanmar (Burma))'
+ca: Catalan
+ca_AD: 'Catalan (Andorra)'
+ca_FR: 'Catalan (France)'
+ca_IT: 'Catalan (Italy)'
+ca_ES: 'Catalan (Spain)'
+zh_HK: 'Chinese (Hong Kong SAR China)'
+zh_MO: 'Chinese (Macau SAR China)'
+zh_Hans_CN: 'Chinese (Simplified, China)'
+zh_Hans_HK: 'Chinese (Simplified, Hong Kong SAR China)'
+zh_Hans_MO: 'Chinese (Simplified, Macau SAR China)'
+zh_Hans_SG: 'Chinese (Simplified, Singapore)'
+zh_Hans: 'Chinese (Simplified)'
+zh_Hant_HK: 'Chinese (Traditional, Hong Kong SAR China)'
+zh_Hant_MO: 'Chinese (Traditional, Macau SAR China)'
+zh_Hant_TW: 'Chinese (Traditional, Taiwan)'
+zh_Hant: 'Chinese (Traditional)'
+kw: Cornish
+kw_GB: 'Cornish (United Kingdom)'
+hr: Croatian
+hr_BA: 'Croatian (Bosnia & Herzegovina)'
+hr_HR: 'Croatian (Croatia)'
+da: Danish
+da_DK: 'Danish (Denmark)'
+da_GL: 'Danish (Greenland)'
+nl_BQ: 'Dutch (Caribbean Netherlands)'
+nl_CW: 'Dutch (Curaçao)'
+nl_SX: 'Dutch (Sint Maarten)'
+dz: Dzongkha
+dz_BT: 'Dzongkha (Bhutan)'
+en_CX: 'English (Christmas Island)'
+en_CC: 'English (Cocos (Keeling) Islands)'
+en_DG: 'English (Diego Garcia)'
+en_GG: 'English (Guernsey)'
+en_HK: 'English (Hong Kong SAR China)'
+en_IM: 'English (Isle of Man)'
+en_JE: 'English (Jersey)'
+en_MO: 'English (Macau SAR China)'
+en_SX: 'English (Sint Maarten)'
+en_SS: 'English (South Sudan)'
+en_UM: 'English (U.S. Outlying Islands)'
+eo: Esperanto
+et: Estonian
+et_EE: 'Estonian (Estonia)'
+ee: Ewe
+ee_GH: 'Ewe (Ghana)'
+ee_TG: 'Ewe (Togo)'
+fo: Faroese
+fo_FO: 'Faroese (Faroe Islands)'
+fi: Finnish
+fi_FI: 'Finnish (Finland)'
+fr_BL: 'French (St. Barthélemy)'
+fr_MF: 'French (St. Martin)'
+ff: Fulah
+ff_CM: 'Fulah (Cameroon)'
+ff_GN: 'Fulah (Guinea)'
+ff_MR: 'Fulah (Mauritania)'
+ff_SN: 'Fulah (Senegal)'
+gl: Galician
+gl_ES: 'Galician (Spain)'
+lg: Ganda
+lg_UG: 'Ganda (Uganda)'
+ka: Georgian
+ka_GE: 'Georgian (Georgia)'
+el: Giliki
+el_GR: 'Giliki (Ngeleka)'
+el_CY: 'Giliki (Shipele)'
+gu: Gujarati
+gu_IN: 'Gujarati (India)'
+ha: Hausa
+ha_Latn_GH: 'Hausa (Latin, Ghana)'
+ha_Latn_NE: 'Hausa (Latin, Niger)'
+ha_Latn_NG: 'Hausa (Latin, Nigeria)'
+ha_Latn: 'Hausa (Latin)'
+ha_GH: 'Hausa (Ngana)'
+ha_NE: 'Hausa (Nijere)'
+ha_NG: 'Hausa (Nijerya)'
+he: Hebrew
+he_IL: 'Hebrew (Israel)'
+hi: Hindi
+hi_IN: 'Hindi (Inde)'
+hu: Hongili
+hu_HU: 'Hongili (Ongili)'
+is: Icelandic
+is_IS: 'Icelandic (Iceland)'
+ig: Igbo
+ig_NG: 'Igbo (Nijerya)'
+ga: Irish
+ga_IE: 'Irish (Ireland)'
+kl: Kalaallisut
+kl_GL: 'Kalaallisut (Greenland)'
+kn: Kannada
+kn_IN: 'Kannada (India)'
+ks: Kashmiri
+ks_Arab_IN: 'Kashmiri (Arabic, India)'
+ks_Arab: 'Kashmiri (Arabic)'
+ks_IN: 'Kashmiri (India)'
+kk: Kazakh
+kk_Cyrl_KZ: 'Kazakh (Cyrillic, Kazakhstan)'
+kk_Cyrl: 'Kazakh (Cyrillic)'
+kk_KZ: 'Kazakh (Kazakhstan)'
+km: Khmer
+km_KH: 'Khmer (Cambodia)'
+ki: Kikuyu
+ki_KE: 'Kikuyu (Kenya)'
+rw: kinyarwanda
+rw_RW: 'kinyarwanda (Rwanda)'
+ky: Kyrgyz
+ky_Cyrl_KG: 'Kyrgyz (Cyrillic, Kyrgyzstan)'
+ky_Cyrl: 'Kyrgyz (Cyrillic)'
+ky_KG: 'Kyrgyz (Kyrgyzstan)'
+lo: Lao
+lo_LA: 'Lao (Laos)'
+lv: Latvian
+lv_LV: 'Latvian (Latvia)'
+ak: Liakan
+ak_GH: 'Liakan (Ngana)'
+am: Liamhariki
+am_ET: 'Liamhariki (Etshiopi)'
+es: Lihispania
+es_AR: 'Lihispania (Alijantine)'
+es_US: 'Lihispania (Ameriki)'
+es_DO: 'Lihispania (Ditunga wa Duminiku)'
+es_EC: 'Lihispania (Ekwatele)'
+es_GQ: 'Lihispania (Gine Ekwatele)'
+es_UY: 'Lihispania (Irigwei)'
+es_CO: 'Lihispania (Kolombi)'
+es_CR: 'Lihispania (Kositarika)'
+es_CU: 'Lihispania (Kuba)'
+es_BO: 'Lihispania (Mbolivi)'
+es_MX: 'Lihispania (Meksike)'
+es_PR: 'Lihispania (Mpotoriku)'
+es_PH: 'Lihispania (Nfilipi)'
+es_GT: 'Lihispania (Ngwatemala)'
+es_NI: 'Lihispania (Nikaragwa)'
+es_ES: 'Lihispania (Nsipani)'
+es_HN: 'Lihispania (Ondurase)'
+es_PY: 'Lihispania (Palagwei)'
+es_PA: 'Lihispania (Panama)'
+es_PE: 'Lihispania (Peru)'
+es_SV: 'Lihispania (Savadore)'
+es_CL: 'Lihispania (Shili)'
+es_VE: 'Lihispania (Venezuela)'
+ko: Likoreya
+ko_KP: 'Likoreya (Kore wa muulu)'
+ko_KR: 'Likoreya (Kore wa mwinshi)'
+ms: Limalezia
+ms_BN: 'Limalezia (Brineyi)'
+ms_MY: 'Limalezia (Malezi)'
+ms_SG: 'Limalezia (Singapure)'
+id: Lindonezia
+id_ID: 'Lindonezia (Indonezi)'
+ln: Lingala
+ln_AO: 'Lingala (Angola)'
+ln_CF: 'Lingala (Central African Republic)'
+ln_CG: 'Lingala (Congo - Brazzaville)'
+ln_CD: 'Lingala (Congo - Kinshasa)'
+en: Lingelesa
+en_ZA: 'Lingelesa (Afrika ya Súdi)'
+en_US: 'Lingelesa (Ameriki)'
+en_GB: 'Lingelesa (Angeletele)'
+en_AI: 'Lingelesa (Angiye)'
+en_AG: 'Lingelesa (Antiga ne Barbuda)'
+en_BS: 'Lingelesa (Bahamase)'
+en_BB: 'Lingelesa (Barebade)'
+en_BE: 'Lingelesa (Belejiki)'
+en_BZ: 'Lingelesa (Belize)'
+en_BM: 'Lingelesa (Bermuda)'
+en_DM: 'Lingelesa (Duminiku)'
+en_ER: 'Lingelesa (Elitele)'
+en_FJ: 'Lingelesa (Fuji)'
+en_GM: 'Lingelesa (Gambi)'
+en_IN: 'Lingelesa (Inde)'
+en_IE: 'Lingelesa (Irelande)'
+en_JM: 'Lingelesa (Jamaiki)'
+en_GI: 'Lingelesa (Jibeletale)'
+en_CM: 'Lingelesa (Kamerune)'
+en_CA: 'Lingelesa (Kanada)'
+en_KE: 'Lingelesa (Kenya)'
+en_KI: 'Lingelesa (Kiribati)'
+en_LS: 'Lingelesa (Lesoto)'
+en_LR: 'Lingelesa (Liberiya)'
+en_KY: 'Lingelesa (Lutanda lua Kayima)'
+en_CK: 'Lingelesa (Lutanda lua Kookɛ)'
+en_FK: 'Lingelesa (Lutanda lua Maluni)'
+en_MP: 'Lingelesa (Lutanda lua Mariane wa muulu)'
+en_MH: 'Lingelesa (Lutanda lua Marishale)'
+en_NF: 'Lingelesa (Lutanda lua Norfok)'
+en_SB: 'Lingelesa (Lutanda lua Solomu)'
+en_TC: 'Lingelesa (Lutanda lua Tuluki ne Kaiko)'
+en_VI: 'Lingelesa (Lutanda lua Vierzi wa Ameriki)'
+en_VG: 'Lingelesa (Lutanda lua Vierzi wa Angeletele)'
+en_IO: 'Lingelesa (Lutanda lwa Angeletele ku mbu wa Indiya)'
+en_MG: 'Lingelesa (Madagasikari)'
+en_MW: 'Lingelesa (Malawi)'
+en_MY: 'Lingelesa (Malezi)'
+en_MT: 'Lingelesa (Malite)'
+en_BW: 'Lingelesa (Mbotswana)'
+en_FM: 'Lingelesa (Mikronezi)'
+en_MU: 'Lingelesa (Morise)'
+en_PR: 'Lingelesa (Mpotoriku)'
+en_MS: 'Lingelesa (Musera)'
+en_NA: 'Lingelesa (Namibi)'
+en_NR: 'Lingelesa (Nauru)'
+en_PH: 'Lingelesa (Nfilipi)'
+en_GH: 'Lingelesa (Ngana)'
+en_GD: 'Lingelesa (Ngelenade)'
+en_GY: 'Lingelesa (Ngiyane)'
+en_GU: 'Lingelesa (Ngwame)'
+en_NG: 'Lingelesa (Nijerya)'
+en_NU: 'Lingelesa (Nyue)'
+en_AU: 'Lingelesa (Ositali)'
+en_PK: 'Lingelesa (Pakisita)'
+en_PW: 'Lingelesa (Palau)'
+en_PG: 'Lingelesa (Papwazi wa Nginɛ wa mumu)'
+en_PN: 'Lingelesa (Pikairni)'
+en_RW: 'Lingelesa (Rwanda)'
+en_AS: 'Lingelesa (Samoa wa Ameriki)'
+en_WS: 'Lingelesa (Samoa)'
+en_SH: 'Lingelesa (Santu eleni)'
+en_KN: 'Lingelesa (Santu krístofe ne Neves)'
+en_LC: 'Lingelesa (Santu lisi)'
+en_VC: 'Lingelesa (Santu vesa ne Ngelenadine)'
+en_SC: 'Lingelesa (Seshele)'
+en_SL: 'Lingelesa (Siera Leone)'
+en_SG: 'Lingelesa (Singapure)'
+en_SD: 'Lingelesa (Suda)'
+en_SZ: 'Lingelesa (Swazilandi)'
+en_TZ: 'Lingelesa (Tanzani)'
+en_TT: 'Lingelesa (Tinidade ne Tobago)'
+en_TK: 'Lingelesa (Tokelau)'
+en_TO: 'Lingelesa (Tonga)'
+en_TV: 'Lingelesa (Tuvalu)'
+en_UG: 'Lingelesa (Uganda)'
+en_VU: 'Lingelesa (Vanuatu)'
+en_ZM: 'Lingelesa (Zambi)'
+en_NZ: 'Lingelesa (Zelanda wa mumu)'
+en_ZW: 'Lingelesa (Zimbabwe)'
+pa: Lipunjabi
+pa_IN: 'Lipunjabi (Inde)'
+pa_PK: 'Lipunjabi (Pakisita)'
+ru: Lirisi
+ru_BY: 'Lirisi (Byelorisi)'
+ru_KZ: 'Lirisi (Kazakusita)'
+ru_KG: 'Lirisi (Kigizisita)'
+ru_MD: 'Lirisi (Molidavi)'
+ru_RU: 'Lirisi (Risi)'
+ru_UA: 'Lirisi (Ukreni)'
+ro: Liromani
+ro_MD: 'Liromani (Molidavi)'
+ro_RO: 'Liromani (Romani)'
+so: Lisomali
+so_DJ: 'Lisomali (Djibuti)'
+so_ET: 'Lisomali (Etshiopi)'
+so_KE: 'Lisomali (Kenya)'
+so_SO: 'Lisomali (Somali)'
+sv: Lisuwidi
+sv_FI: 'Lisuwidi (Filande)'
+sv_SE: 'Lisuwidi (Suwedi)'
+it: Litali
+it_IT: 'Litali (Itali)'
+it_SM: 'Litali (Santu Marine)'
+it_CH: 'Litali (Swise)'
+lt: Lithuanian
+lt_LT: 'Lithuanian (Lithuania)'
+vi: Liviyetinamu
+vi_VN: 'Liviyetinamu (Viyetiname)'
+ja: Liyapani
+ja_JP: 'Liyapani (Japu)'
+de: Lizelumani
+de_DE: 'Lizelumani (Alemanu)'
+de_BE: 'Lizelumani (Belejiki)'
+de_LU: 'Lizelumani (Likisambulu)'
+de_LI: 'Lizelumani (Lishuteni)'
+de_AT: 'Lizelumani (Otilisi)'
+de_CH: 'Lizelumani (Swise)'
+lb: Luxembourgish
+lb_LU: 'Luxembourgish (Luxembourg)'
+mk: Macedonian
+mk_MK: 'Macedonian (Macedonia)'
+mg: Malagasy
+mg_MG: 'Malagasy (Madagascar)'
+ms_Latn_BN: 'Malay (Latin, Brunei)'
+ms_Latn_MY: 'Malay (Latin, Malaysia)'
+ms_Latn_SG: 'Malay (Latin, Singapore)'
+ms_Latn: 'Malay (Latin)'
+ml: Malayalam
+ml_IN: 'Malayalam (India)'
+mt: Maltese
+mt_MT: 'Maltese (Malta)'
+gv: Manx
+gv_IM: 'Manx (Isle of Man)'
+mr: Marathi
+mr_IN: 'Marathi (India)'
+fr: Mfwàlànsa
+fr_DZ: 'Mfwàlànsa (Alijeri)'
+fr_HT: 'Mfwàlànsa (Ayiti)'
+fr_BE: 'Mfwàlànsa (Belejiki)'
+fr_BJ: 'Mfwàlànsa (Bene)'
+fr_BF: 'Mfwàlànsa (Bukinafaso)'
+fr_BI: 'Mfwàlànsa (Burundi)'
+fr_CF: 'Mfwàlànsa (Ditunga dya Afrika wa munkatshi)'
+fr_CD: 'Mfwàlànsa (Ditunga wa Kongu)'
+fr_DJ: 'Mfwàlànsa (Djibuti)'
+fr_GQ: 'Mfwàlànsa (Gine Ekwatele)'
+fr_GF: 'Mfwàlànsa (Giyane wa Nfalanse)'
+fr_NC: 'Mfwàlànsa (Kaledoni wa mumu)'
+fr_CM: 'Mfwàlànsa (Kamerune)'
+fr_CA: 'Mfwàlànsa (Kanada)'
+fr_KM: 'Mfwàlànsa (Komoru)'
+fr_CG: 'Mfwàlànsa (Kongu)'
+fr_CI: 'Mfwàlànsa (Kotedivuale)'
+fr_RE: 'Mfwàlànsa (Lenyo)'
+fr_LU: 'Mfwàlànsa (Likisambulu)'
+fr_MG: 'Mfwàlànsa (Madagasikari)'
+fr_ML: 'Mfwàlànsa (Mali)'
+fr_MA: 'Mfwàlànsa (Maroke)'
+fr_MQ: 'Mfwàlànsa (Martiniki)'
+fr_YT: 'Mfwàlànsa (Mayote)'
+fr_MC: 'Mfwàlànsa (Monaku)'
+fr_MU: 'Mfwàlànsa (Morise)'
+fr_MR: 'Mfwàlànsa (Moritani)'
+fr_FR: 'Mfwàlànsa (Nfalanse)'
+fr_GA: 'Mfwàlànsa (Ngabu)'
+fr_GN: 'Mfwàlànsa (Ngine)'
+fr_GP: 'Mfwàlànsa (Ngwadelupe)'
+fr_NE: 'Mfwàlànsa (Nijere)'
+fr_PF: 'Mfwàlànsa (Polinezi wa Nfalanse)'
+fr_RW: 'Mfwàlànsa (Rwanda)'
+fr_PM: 'Mfwàlànsa (Santu pététo ne Mikelu)'
+fr_SN: 'Mfwàlànsa (Senegale)'
+fr_SC: 'Mfwàlànsa (Seshele)'
+fr_SY: 'Mfwàlànsa (Siri)'
+fr_CH: 'Mfwàlànsa (Swise)'
+fr_TN: 'Mfwàlànsa (Tinizi)'
+fr_TG: 'Mfwàlànsa (Togu)'
+fr_TD: 'Mfwàlànsa (Tshadi)'
+fr_VU: 'Mfwàlànsa (Vanuatu)'
+fr_WF: 'Mfwàlànsa (Walise ne Futuna)'
+mn: Mongolian
+mn_Cyrl_MN: 'Mongolian (Cyrillic, Mongolia)'
+mn_Cyrl: 'Mongolian (Cyrillic)'
+mn_MN: 'Mongolian (Mongolia)'
+fa: Mpepajemi
+fa_AF: 'Mpepajemi (Afuganisita)'
+fa_IR: 'Mpepajemi (Ira)'
+pl: Mpoloni
+pl_PL: 'Mpoloni (Mpoloni)'
+pt: Mputulugɛsi
+pt_AO: 'Mputulugɛsi (Angola)'
+pt_CV: 'Mputulugɛsi (Lutanda lua Kapevele)'
+pt_BR: 'Mputulugɛsi (Mnulezile)'
+pt_MZ: 'Mputulugɛsi (Mozambiki)'
+pt_PT: 'Mputulugɛsi (Mputulugeshi)'
+pt_GW: 'Mputulugɛsi (Nginebisau)'
+pt_ST: 'Mputulugɛsi (Sao Tome ne Presipɛ)'
+pt_TL: 'Mputulugɛsi (Timoru wa diboku)'
+ta: Mtamuili
+ta_IN: 'Mtamuili (Inde)'
+ta_MY: 'Mtamuili (Malezi)'
+ta_SG: 'Mtamuili (Singapure)'
+ta_LK: 'Mtamuili (Sirilanka)'
+ne: nepali
+ne_IN: 'nepali (Inde)'
+ne_NP: 'nepali (Nepálɛ)'
+uk: Nkrani
+uk_UA: 'Nkrani (Ukreni)'
+nd: 'North Ndebele'
+nd_ZW: 'North Ndebele (Zimbabwe)'
+se: 'Northern Sami'
+se_FI: 'Northern Sami (Finland)'
+se_NO: 'Northern Sami (Norway)'
+se_SE: 'Northern Sami (Sweden)'
+'no': Norwegian
+no_NO: 'Norwegian (Norway)'
+nb: 'Norwegian Bokmål'
+nb_NO: 'Norwegian Bokmål (Norway)'
+nb_SJ: 'Norwegian Bokmål (Svalbard & Jan Mayen)'
+nn: 'Norwegian Nynorsk'
+nn_NO: 'Norwegian Nynorsk (Norway)'
+th: Ntailandi
+th_TH: 'Ntailandi (Tayilanda)'
+tr: Ntuluki
+tr_CY: 'Ntuluki (Shipele)'
+tr_TR: 'Ntuluki (Tuluki)'
+yo: Nyoruba
+yo_BJ: 'Nyoruba (Bene)'
+yo_NG: 'Nyoruba (Nijerya)'
+zu: Nzulu
+zu_ZA: 'Nzulu (Afrika ya Súdi)'
+nl: olandi
+nl_AW: 'olandi (Aruba)'
+nl_BE: 'olandi (Belejiki)'
+nl_NL: 'olandi (Olandɛ)'
+nl_SR: 'olandi (Suriname)'
+or: Oriya
+or_IN: 'Oriya (India)'
+om: Oromo
+om_ET: 'Oromo (Ethiopia)'
+om_KE: 'Oromo (Kenya)'
+os: Ossetic
+os_GE: 'Ossetic (Georgia)'
+os_RU: 'Ossetic (Russia)'
+ps: Pashto
+ps_AF: 'Pashto (Afghanistan)'
+pt_MO: 'Portuguese (Macau SAR China)'
+pa_Arab_PK: 'Punjabi (Arabic, Pakistan)'
+pa_Arab: 'Punjabi (Arabic)'
+pa_Guru_IN: 'Punjabi (Gurmukhi, India)'
+pa_Guru: 'Punjabi (Gurmukhi)'
+qu: Quechua
+qu_BO: 'Quechua (Bolivia)'
+qu_EC: 'Quechua (Ecuador)'
+qu_PE: 'Quechua (Peru)'
+rm: Romansh
+rm_CH: 'Romansh (Switzerland)'
+rn: Rundi
+rn_BI: 'Rundi (Burundi)'
+sg: Sango
+sg_CF: 'Sango (Central African Republic)'
+gd: 'Scottish Gaelic'
+gd_GB: 'Scottish Gaelic (United Kingdom)'
+sr: Serbian
+sr_BA: 'Serbian (Bosnia & Herzegovina)'
+sr_Cyrl_BA: 'Serbian (Cyrillic, Bosnia & Herzegovina)'
+sr_Cyrl_XK: 'Serbian (Cyrillic, Kosovo)'
+sr_Cyrl_ME: 'Serbian (Cyrillic, Montenegro)'
+sr_Cyrl_RS: 'Serbian (Cyrillic, Serbia)'
+sr_Cyrl: 'Serbian (Cyrillic)'
+sr_XK: 'Serbian (Kosovo)'
+sr_Latn_BA: 'Serbian (Latin, Bosnia & Herzegovina)'
+sr_Latn_XK: 'Serbian (Latin, Kosovo)'
+sr_Latn_ME: 'Serbian (Latin, Montenegro)'
+sr_Latn_RS: 'Serbian (Latin, Serbia)'
+sr_Latn: 'Serbian (Latin)'
+sr_ME: 'Serbian (Montenegro)'
+sr_RS: 'Serbian (Serbia)'
+sh: Serbo-Croatian
+sh_BA: 'Serbo-Croatian (Bosnia & Herzegovina)'
+zh: shinɛ
+zh_CN: 'shinɛ (Shine)'
+zh_SG: 'shinɛ (Singapure)'
+zh_TW: 'shinɛ (Taiwani)'
+sn: Shona
+sn_ZW: 'Shona (Zimbabwe)'
+ii: 'Sichuan Yi'
+ii_CN: 'Sichuan Yi (China)'
+si: Sinhala
+si_LK: 'Sinhala (Sri Lanka)'
+sk: Slovak
+sk_SK: 'Slovak (Slovakia)'
+sl: Slovenian
+sl_SI: 'Slovenian (Slovenia)'
+es_IC: 'Spanish (Canary Islands)'
+es_EA: 'Spanish (Ceuta & Melilla)'
+sw: Swahili
+sw_KE: 'Swahili (Kenya)'
+sw_TZ: 'Swahili (Tanzania)'
+sw_UG: 'Swahili (Uganda)'
+sv_AX: 'Swedish (Åland Islands)'
+tl: Tagalog
+tl_PH: 'Tagalog (Philippines)'
+te: Telugu
+te_IN: 'Telugu (India)'
+bo: Tibetan
+bo_CN: 'Tibetan (China)'
+bo_IN: 'Tibetan (India)'
+ti: Tigrinya
+ti_ER: 'Tigrinya (Eritrea)'
+ti_ET: 'Tigrinya (Ethiopia)'
+to: Tongan
+to_TO: 'Tongan (Tonga)'
+cs: Tsheki
+cs_CZ: 'Tsheki (Ditunga dya Tsheka)'
+lu: Tshiluba
+lu_CD: 'Tshiluba (Ditunga wa Kongu)'
+ur: Urdu
+ur_IN: 'Urdu (Inde)'
+ur_PK: 'Urdu (Pakisita)'
+ug: Uyghur
+ug_Arab_CN: 'Uyghur (Arabic, China)'
+ug_Arab: 'Uyghur (Arabic)'
+ug_CN: 'Uyghur (China)'
+uz: Uzbek
+uz_AF: 'Uzbek (Afghanistan)'
+uz_Arab_AF: 'Uzbek (Arabic, Afghanistan)'
+uz_Arab: 'Uzbek (Arabic)'
+uz_Cyrl_UZ: 'Uzbek (Cyrillic, Uzbekistan)'
+uz_Cyrl: 'Uzbek (Cyrillic)'
+uz_Latn_UZ: 'Uzbek (Latin, Uzbekistan)'
+uz_Latn: 'Uzbek (Latin)'
+uz_UZ: 'Uzbek (Uzbekistan)'
+cy: Welsh
+cy_GB: 'Welsh (United Kingdom)'
+fy: 'Western Frisian'
+fy_NL: 'Western Frisian (Netherlands)'
+yi: Yiddish

@@ -1,0 +1,564 @@
+id,value
+af,afrikaans
+af_NA,"afrikaans (Namibia)"
+af_ZA,"afrikaans (Republika Południowej Afryki)"
+ak,akan
+ak_GH,"akan (Ghana)"
+sq,albański
+sq_AL,"albański (Albania)"
+sq_XK,"albański (Kosowo)"
+sq_MK,"albański (Macedonia)"
+am,amharski
+am_ET,"amharski (Etiopia)"
+en,angielski
+en_AI,"angielski (Anguilla)"
+en_AG,"angielski (Antigua i Barbuda)"
+en_AU,"angielski (Australia)"
+en_BS,"angielski (Bahamy)"
+en_BB,"angielski (Barbados)"
+en_BE,"angielski (Belgia)"
+en_BZ,"angielski (Belize)"
+en_BM,"angielski (Bermudy)"
+en_BW,"angielski (Botswana)"
+en_IO,"angielski (Brytyjskie Terytorium Oceanu Indyjskiego)"
+en_VG,"angielski (Brytyjskie Wyspy Dziewicze)"
+en_UM,"angielski (Dalekie Wyspy Mniejsze Stanów Zjednoczonych)"
+en_DG,"angielski (Diego Garcia)"
+en_DM,"angielski (Dominika)"
+en_ER,"angielski (Erytrea)"
+en_FK,"angielski (Falklandy)"
+en_FJ,"angielski (Fidżi)"
+en_PH,"angielski (Filipiny)"
+en_GM,"angielski (Gambia)"
+en_GH,"angielski (Ghana)"
+en_GI,"angielski (Gibraltar)"
+en_GD,"angielski (Grenada)"
+en_GU,"angielski (Guam)"
+en_GY,"angielski (Gujana)"
+en_IN,"angielski (Indie)"
+en_IE,"angielski (Irlandia)"
+en_JM,"angielski (Jamajka)"
+en_KY,"angielski (Kajmany)"
+en_CM,"angielski (Kamerun)"
+en_CA,"angielski (Kanada)"
+en_KE,"angielski (Kenia)"
+en_KI,"angielski (Kiribati)"
+en_LS,"angielski (Lesotho)"
+en_LR,"angielski (Liberia)"
+en_MG,"angielski (Madagaskar)"
+en_MW,"angielski (Malawi)"
+en_MY,"angielski (Malezja)"
+en_MT,"angielski (Malta)"
+en_MP,"angielski (Mariany Północne)"
+en_MU,"angielski (Mauritius)"
+en_FM,"angielski (Mikronezja)"
+en_MS,"angielski (Montserrat)"
+en_NA,"angielski (Namibia)"
+en_NR,"angielski (Nauru)"
+en_NG,"angielski (Nigeria)"
+en_NU,"angielski (Niue)"
+en_NF,"angielski (Norfolk)"
+en_NZ,"angielski (Nowa Zelandia)"
+en_PK,"angielski (Pakistan)"
+en_PW,"angielski (Palau)"
+en_PG,"angielski (Papua-Nowa Gwinea)"
+en_PN,"angielski (Pitcairn)"
+en_PR,"angielski (Portoryko)"
+en_ZA,"angielski (Republika Południowej Afryki)"
+en_RW,"angielski (Rwanda)"
+en_KN,"angielski (Saint Kitts i Nevis)"
+en_LC,"angielski (Saint Lucia)"
+en_VC,"angielski (Saint Vincent i Grenadyny)"
+en_AS,"angielski (Samoa Amerykańskie)"
+en_WS,"angielski (Samoa)"
+en_SC,"angielski (Seszele)"
+en_SL,"angielski (Sierra Leone)"
+en_SG,"angielski (Singapur)"
+en_SX,"angielski (Sint Maarten)"
+en_HK,"angielski (SRA Hongkong (Chiny))"
+en_MO,"angielski (SRA Makau (Chiny))"
+en_US,"angielski (Stany Zjednoczone)"
+en_SZ,"angielski (Suazi)"
+en_SS,"angielski (Sudan Południowy)"
+en_SD,"angielski (Sudan)"
+en_TZ,"angielski (Tanzania)"
+en_TK,"angielski (Tokelau)"
+en_TO,"angielski (Tonga)"
+en_TT,"angielski (Trynidad i Tobago)"
+en_TC,"angielski (Turks i Caicos)"
+en_TV,"angielski (Tuvalu)"
+en_UG,"angielski (Uganda)"
+en_VU,"angielski (Vanuatu)"
+en_GB,"angielski (Wielka Brytania)"
+en_CX,"angielski (Wyspa Bożego Narodzenia)"
+en_GG,"angielski (Wyspa Guernsey)"
+en_JE,"angielski (Wyspa Jersey)"
+en_IM,"angielski (Wyspa Man)"
+en_SH,"angielski (Wyspa Świętej Heleny)"
+en_CK,"angielski (Wyspy Cooka)"
+en_VI,"angielski (Wyspy Dziewicze Stanów Zjednoczonych)"
+en_CC,"angielski (Wyspy Kokosowe)"
+en_MH,"angielski (Wyspy Marshalla)"
+en_SB,"angielski (Wyspy Salomona)"
+en_ZM,"angielski (Zambia)"
+en_ZW,"angielski (Zimbabwe)"
+ar,arabski
+ar_DZ,"arabski (Algieria)"
+ar_SA,"arabski (Arabia Saudyjska)"
+ar_BH,"arabski (Bahrajn)"
+ar_TD,"arabski (Czad)"
+ar_DJ,"arabski (Dżibuti)"
+ar_EG,"arabski (Egipt)"
+ar_ER,"arabski (Erytrea)"
+ar_IQ,"arabski (Irak)"
+ar_IL,"arabski (Izrael)"
+ar_YE,"arabski (Jemen)"
+ar_JO,"arabski (Jordania)"
+ar_QA,"arabski (Katar)"
+ar_KM,"arabski (Komory)"
+ar_KW,"arabski (Kuwejt)"
+ar_LB,"arabski (Liban)"
+ar_LY,"arabski (Libia)"
+ar_MA,"arabski (Maroko)"
+ar_MR,"arabski (Mauretania)"
+ar_OM,"arabski (Oman)"
+ar_EH,"arabski (Sahara Zachodnia)"
+ar_SO,"arabski (Somalia)"
+ar_SS,"arabski (Sudan Południowy)"
+ar_SD,"arabski (Sudan)"
+ar_SY,"arabski (Syria)"
+ar_PS,"arabski (Terytoria Palestyńskie)"
+ar_TN,"arabski (Tunezja)"
+ar_AE,"arabski (Zjednoczone Emiraty Arabskie)"
+as,asamski
+as_IN,"asamski (Indie)"
+az,azerski
+az_AZ,"azerski (Azerbejdżan)"
+az_Cyrl_AZ,"azerski (cyrylica, Azerbejdżan)"
+az_Cyrl,"azerski (cyrylica)"
+az_Latn_AZ,"azerski (łacińskie, Azerbejdżan)"
+az_Latn,"azerski (łacińskie)"
+bm,bambara
+bm_Latn_ML,"bambara (łacińskie, Mali)"
+bm_Latn,"bambara (łacińskie)"
+eu,baskijski
+eu_ES,"baskijski (Hiszpania)"
+bn,bengalski
+bn_BD,"bengalski (Bangladesz)"
+bn_IN,"bengalski (Indie)"
+be,białoruski
+be_BY,"białoruski (Białoruś)"
+my,birmański
+my_MM,"birmański (Mjanma (Birma))"
+bs,bośniacki
+bs_BA,"bośniacki (Bośnia i Hercegowina)"
+bs_Cyrl_BA,"bośniacki (cyrylica, Bośnia i Hercegowina)"
+bs_Cyrl,"bośniacki (cyrylica)"
+bs_Latn_BA,"bośniacki (łacińskie, Bośnia i Hercegowina)"
+bs_Latn,"bośniacki (łacińskie)"
+br,bretoński
+br_FR,"bretoński (Francja)"
+bg,bułgarski
+bg_BG,"bułgarski (Bułgaria)"
+zh,chiński
+zh_CN,"chiński (Chiny)"
+zh_SG,"chiński (Singapur)"
+zh_HK,"chiński (SRA Hongkong (Chiny))"
+zh_MO,"chiński (SRA Makau (Chiny))"
+zh_TW,"chiński (Tajwan)"
+zh_Hant_HK,"chiński (tradycyjne, SRA Hongkong (Chiny))"
+zh_Hant_MO,"chiński (tradycyjne, SRA Makau (Chiny))"
+zh_Hant_TW,"chiński (tradycyjne, Tajwan)"
+zh_Hant,"chiński (tradycyjne)"
+zh_Hans_CN,"chiński (uproszczone, Chiny)"
+zh_Hans_SG,"chiński (uproszczone, Singapur)"
+zh_Hans_HK,"chiński (uproszczone, SRA Hongkong (Chiny))"
+zh_Hans_MO,"chiński (uproszczone, SRA Makau (Chiny))"
+zh_Hans,"chiński (uproszczone)"
+hr,chorwacki
+hr_BA,"chorwacki (Bośnia i Hercegowina)"
+hr_HR,"chorwacki (Chorwacja)"
+cs,czeski
+cs_CZ,"czeski (Czechy)"
+da,duński
+da_DK,"duński (Dania)"
+da_GL,"duński (Grenlandia)"
+dz,dzongkha
+dz_BT,"dzongkha (Bhutan)"
+eo,esperanto
+et,estoński
+et_EE,"estoński (Estonia)"
+ee,ewe
+ee_GH,"ewe (Ghana)"
+ee_TG,"ewe (Togo)"
+fo,farerski
+fo_FO,"farerski (Wyspy Owcze)"
+fi,fiński
+fi_FI,"fiński (Finlandia)"
+fr,francuski
+fr_DZ,"francuski (Algieria)"
+fr_BE,"francuski (Belgia)"
+fr_BJ,"francuski (Benin)"
+fr_BF,"francuski (Burkina Faso)"
+fr_BI,"francuski (Burundi)"
+fr_CI,"francuski (Côte d’Ivoire)"
+fr_TD,"francuski (Czad)"
+fr_CD,"francuski (Demokratyczna Republika Konga)"
+fr_DJ,"francuski (Dżibuti)"
+fr_FR,"francuski (Francja)"
+fr_GA,"francuski (Gabon)"
+fr_GF,"francuski (Gujana Francuska)"
+fr_GP,"francuski (Gwadelupa)"
+fr_GQ,"francuski (Gwinea Równikowa)"
+fr_GN,"francuski (Gwinea)"
+fr_HT,"francuski (Haiti)"
+fr_CM,"francuski (Kamerun)"
+fr_CA,"francuski (Kanada)"
+fr_KM,"francuski (Komory)"
+fr_CG,"francuski (Kongo)"
+fr_LU,"francuski (Luksemburg)"
+fr_MG,"francuski (Madagaskar)"
+fr_YT,"francuski (Majotta)"
+fr_ML,"francuski (Mali)"
+fr_MA,"francuski (Maroko)"
+fr_MQ,"francuski (Martynika)"
+fr_MR,"francuski (Mauretania)"
+fr_MU,"francuski (Mauritius)"
+fr_MC,"francuski (Monako)"
+fr_NE,"francuski (Niger)"
+fr_NC,"francuski (Nowa Kaledonia)"
+fr_PF,"francuski (Polinezja Francuska)"
+fr_CF,"francuski (Republika Środkowoafrykańska)"
+fr_RE,"francuski (Reunion)"
+fr_RW,"francuski (Rwanda)"
+fr_BL,"francuski (Saint-Barthélemy)"
+fr_MF,"francuski (Saint-Martin)"
+fr_PM,"francuski (Saint-Pierre i Miquelon)"
+fr_SN,"francuski (Senegal)"
+fr_SC,"francuski (Seszele)"
+fr_SY,"francuski (Syria)"
+fr_CH,"francuski (Szwajcaria)"
+fr_TG,"francuski (Togo)"
+fr_TN,"francuski (Tunezja)"
+fr_VU,"francuski (Vanuatu)"
+fr_WF,"francuski (Wallis i Futuna)"
+ff,fulani
+ff_GN,"fulani (Gwinea)"
+ff_CM,"fulani (Kamerun)"
+ff_MR,"fulani (Mauretania)"
+ff_SN,"fulani (Senegal)"
+gl,galicyjski
+gl_ES,"galicyjski (Hiszpania)"
+lg,ganda
+lg_UG,"ganda (Uganda)"
+el,grecki
+el_CY,"grecki (Cypr)"
+el_GR,"grecki (Grecja)"
+kl,grenlandzki
+kl_GL,"grenlandzki (Grenlandia)"
+ka,gruziński
+ka_GE,"gruziński (Gruzja)"
+gu,gudźaracki
+gu_IN,"gudźaracki (Indie)"
+ha,hausa
+ha_GH,"hausa (Ghana)"
+ha_Latn_GH,"hausa (łacińskie, Ghana)"
+ha_Latn_NE,"hausa (łacińskie, Niger)"
+ha_Latn_NG,"hausa (łacińskie, Nigeria)"
+ha_Latn,"hausa (łacińskie)"
+ha_NE,"hausa (Niger)"
+ha_NG,"hausa (Nigeria)"
+he,hebrajski
+he_IL,"hebrajski (Izrael)"
+hi,hindi
+hi_IN,"hindi (Indie)"
+es,hiszpański
+es_AR,"hiszpański (Argentyna)"
+es_BO,"hiszpański (Boliwia)"
+es_EA,"hiszpański (Ceuta i Melilla)"
+es_CL,"hiszpański (Chile)"
+es_DO,"hiszpański (Dominikana)"
+es_EC,"hiszpański (Ekwador)"
+es_PH,"hiszpański (Filipiny)"
+es_GT,"hiszpański (Gwatemala)"
+es_GQ,"hiszpański (Gwinea Równikowa)"
+es_ES,"hiszpański (Hiszpania)"
+es_HN,"hiszpański (Honduras)"
+es_CO,"hiszpański (Kolumbia)"
+es_CR,"hiszpański (Kostaryka)"
+es_CU,"hiszpański (Kuba)"
+es_MX,"hiszpański (Meksyk)"
+es_NI,"hiszpański (Nikaragua)"
+es_PA,"hiszpański (Panama)"
+es_PY,"hiszpański (Paragwaj)"
+es_PE,"hiszpański (Peru)"
+es_PR,"hiszpański (Portoryko)"
+es_SV,"hiszpański (Salwador)"
+es_US,"hiszpański (Stany Zjednoczone)"
+es_UY,"hiszpański (Urugwaj)"
+es_VE,"hiszpański (Wenezuela)"
+es_IC,"hiszpański (Wyspy Kanaryjskie)"
+ig,igbo
+ig_NG,"igbo (Nigeria)"
+id,indonezyjski
+id_ID,"indonezyjski (Indonezja)"
+ga,irlandzki
+ga_IE,"irlandzki (Irlandia)"
+is,islandzki
+is_IS,"islandzki (Islandia)"
+ja,japoński
+ja_JP,"japoński (Japonia)"
+yi,jidysz
+yo,joruba
+yo_BJ,"joruba (Benin)"
+yo_NG,"joruba (Nigeria)"
+kn,kannada
+kn_IN,"kannada (Indie)"
+ks,kaszmirski
+ks_Arab_IN,"kaszmirski (arabskie, Indie)"
+ks_Arab,"kaszmirski (arabskie)"
+ks_IN,"kaszmirski (Indie)"
+ca,kataloński
+ca_AD,"kataloński (Andora)"
+ca_FR,"kataloński (Francja)"
+ca_ES,"kataloński (Hiszpania)"
+ca_IT,"kataloński (Włochy)"
+kk,kazachski
+kk_Cyrl_KZ,"kazachski (cyrylica, Kazachstan)"
+kk_Cyrl,"kazachski (cyrylica)"
+kk_KZ,"kazachski (Kazachstan)"
+qu,keczua
+qu_BO,"keczua (Boliwia)"
+qu_EC,"keczua (Ekwador)"
+qu_PE,"keczua (Peru)"
+km,khmerski
+km_KH,"khmerski (Kambodża)"
+ki,kikuju
+ki_KE,"kikuju (Kenia)"
+rw,kinya-ruanda
+rw_RW,"kinya-ruanda (Rwanda)"
+ky,kirgiski
+ky_Cyrl_KG,"kirgiski (cyrylica, Kirgistan)"
+ky_Cyrl,"kirgiski (cyrylica)"
+ky_KG,"kirgiski (Kirgistan)"
+ko,koreański
+ko_KR,"koreański (Korea Południowa)"
+ko_KP,"koreański (Korea Północna)"
+kw,kornijski
+kw_GB,"kornijski (Wielka Brytania)"
+lo,laotański
+lo_LA,"laotański (Laos)"
+se,"lapoński północny"
+se_FI,"lapoński północny (Finlandia)"
+se_NO,"lapoński północny (Norwegia)"
+se_SE,"lapoński północny (Szwecja)"
+ln,lingala
+ln_AO,"lingala (Angola)"
+ln_CD,"lingala (Demokratyczna Republika Konga)"
+ln_CG,"lingala (Kongo)"
+ln_CF,"lingala (Republika Środkowoafrykańska)"
+lt,litewski
+lt_LT,"litewski (Litwa)"
+lu,luba-katanga
+lu_CD,"luba-katanga (Demokratyczna Republika Konga)"
+lb,luksemburski
+lb_LU,"luksemburski (Luksemburg)"
+lv,łotewski
+lv_LV,"łotewski (Łotwa)"
+mk,macedoński
+mk_MK,"macedoński (Macedonia)"
+ml,malajalam
+ml_IN,"malajalam (Indie)"
+ms,malajski
+ms_BN,"malajski (Brunei Darussalam)"
+ms_Latn_BN,"malajski (łacińskie, Brunei Darussalam)"
+ms_Latn_MY,"malajski (łacińskie, Malezja)"
+ms_Latn_SG,"malajski (łacińskie, Singapur)"
+ms_Latn,"malajski (łacińskie)"
+ms_MY,"malajski (Malezja)"
+ms_SG,"malajski (Singapur)"
+mg,malgaski
+mg_MG,"malgaski (Madagaskar)"
+mt,maltański
+mt_MT,"maltański (Malta)"
+gv,manx
+gv_IM,"manx (Wyspa Man)"
+mr,marathi
+mr_IN,"marathi (Indie)"
+mn,mongolski
+mn_Cyrl_MN,"mongolski (cyrylica, Mongolia)"
+mn_Cyrl,"mongolski (cyrylica)"
+mn_MN,"mongolski (Mongolia)"
+nd,"ndebele północny"
+nd_ZW,"ndebele północny (Zimbabwe)"
+ne,nepalski
+ne_IN,"nepalski (Indie)"
+ne_NP,"nepalski (Nepal)"
+nl,niderlandzki
+nl_AW,"niderlandzki (Aruba)"
+nl_BE,"niderlandzki (Belgia)"
+nl_CW,"niderlandzki (Curaçao)"
+nl_NL,"niderlandzki (Holandia)"
+nl_BQ,"niderlandzki (Niderlandy Karaibskie)"
+nl_SX,"niderlandzki (Sint Maarten)"
+nl_SR,"niderlandzki (Surinam)"
+de,niemiecki
+de_AT,"niemiecki (Austria)"
+de_BE,"niemiecki (Belgia)"
+de_LI,"niemiecki (Liechtenstein)"
+de_LU,"niemiecki (Luksemburg)"
+de_DE,"niemiecki (Niemcy)"
+de_CH,"niemiecki (Szwajcaria)"
+no,norweski
+nb,"norweski (bokmål)"
+nb_NO,"norweski (Norwegia)"
+nn_NO,"norweski (Norwegia)"
+no_NO,"norweski (Norwegia)"
+nn,"norweski (nynorsk)"
+nb_SJ,"norweski (Svalbard i Jan Mayen)"
+or,orija
+or_IN,"orija (Indie)"
+hy,ormiański
+hy_AM,"ormiański (Armenia)"
+om,oromski
+om_ET,"oromski (Etiopia)"
+om_KE,"oromski (Kenia)"
+os,osetyjski
+os_GE,"osetyjski (Gruzja)"
+os_RU,"osetyjski (Rosja)"
+ps,paszto
+ps_AF,"paszto (Afganistan)"
+pa,pendżabski
+pa_Arab_PK,"pendżabski (arabskie, Pakistan)"
+pa_Arab,"pendżabski (arabskie)"
+pa_Guru_IN,"pendżabski (gurmukhi, Indie)"
+pa_Guru,"pendżabski (gurmukhi)"
+pa_IN,"pendżabski (Indie)"
+pa_PK,"pendżabski (Pakistan)"
+fa,perski
+fa_AF,"perski (Afganistan)"
+fa_IR,"perski (Iran)"
+pl,polski
+pl_PL,"polski (Polska)"
+pt,portugalski
+pt_AO,"portugalski (Angola)"
+pt_BR,"portugalski (Brazylia)"
+pt_GW,"portugalski (Gwinea Bissau)"
+pt_MZ,"portugalski (Mozambik)"
+pt_PT,"portugalski (Portugalia)"
+pt_CV,"portugalski (Republika Zielonego Przylądka)"
+pt_MO,"portugalski (SRA Makau (Chiny))"
+pt_TL,"portugalski (Timor Wschodni)"
+pt_ST,"portugalski (Wyspy Świętego Tomasza i Książęca)"
+rm,retoromański
+rm_CH,"retoromański (Szwajcaria)"
+ru,rosyjski
+ru_BY,"rosyjski (Białoruś)"
+ru_KZ,"rosyjski (Kazachstan)"
+ru_KG,"rosyjski (Kirgistan)"
+ru_MD,"rosyjski (Mołdawia)"
+ru_RU,"rosyjski (Rosja)"
+ru_UA,"rosyjski (Ukraina)"
+ro,rumuński
+ro_MD,"rumuński (Mołdawia)"
+ro_RO,"rumuński (Rumunia)"
+rn,rundi
+rn_BI,"rundi (Burundi)"
+sg,sango
+sg_CF,"sango (Republika Środkowoafrykańska)"
+sr,serbski
+sr_BA,"serbski (Bośnia i Hercegowina)"
+sr_Cyrl_BA,"serbski (cyrylica, Bośnia i Hercegowina)"
+sr_Cyrl_ME,"serbski (cyrylica, Czarnogóra)"
+sr_Cyrl_XK,"serbski (cyrylica, Kosowo)"
+sr_Cyrl_RS,"serbski (cyrylica, Serbia)"
+sr_Cyrl,"serbski (cyrylica)"
+sr_ME,"serbski (Czarnogóra)"
+sr_XK,"serbski (Kosowo)"
+sr_Latn_BA,"serbski (łacińskie, Bośnia i Hercegowina)"
+sr_Latn_ME,"serbski (łacińskie, Czarnogóra)"
+sr_Latn_XK,"serbski (łacińskie, Kosowo)"
+sr_Latn_RS,"serbski (łacińskie, Serbia)"
+sr_Latn,"serbski (łacińskie)"
+sr_RS,"serbski (Serbia)"
+sh,serbsko-chorwacki
+sh_BA,"serbsko-chorwacki (Bośnia i Hercegowina)"
+sk,słowacki
+sk_SK,"słowacki (Słowacja)"
+sl,słoweński
+sl_SI,"słoweński (Słowenia)"
+so,somalijski
+so_DJ,"somalijski (Dżibuti)"
+so_ET,"somalijski (Etiopia)"
+so_KE,"somalijski (Kenia)"
+so_SO,"somalijski (Somalia)"
+sw,suahili
+sw_KE,"suahili (Kenia)"
+sw_TZ,"suahili (Tanzania)"
+sw_UG,"suahili (Uganda)"
+ii,syczuański
+ii_CN,"syczuański (Chiny)"
+si,syngaleski
+si_LK,"syngaleski (Sri Lanka)"
+gd,"szkocki gaelicki"
+gd_GB,"szkocki gaelicki (Wielka Brytania)"
+sn,szona
+sn_ZW,"szona (Zimbabwe)"
+sv,szwedzki
+sv_FI,"szwedzki (Finlandia)"
+sv_SE,"szwedzki (Szwecja)"
+sv_AX,"szwedzki (Wyspy Alandzkie)"
+tl,tagalski
+tl_PH,"tagalski (Filipiny)"
+th,tajski
+th_TH,"tajski (Tajlandia)"
+ta,tamilski
+ta_IN,"tamilski (Indie)"
+ta_MY,"tamilski (Malezja)"
+ta_SG,"tamilski (Singapur)"
+ta_LK,"tamilski (Sri Lanka)"
+te,telugu
+te_IN,"telugu (Indie)"
+ti,tigrinia
+ti_ER,"tigrinia (Erytrea)"
+ti_ET,"tigrinia (Etiopia)"
+to,tonga
+to_TO,"tonga (Tonga)"
+tr,turecki
+tr_CY,"turecki (Cypr)"
+tr_TR,"turecki (Turcja)"
+bo,tybetański
+bo_CN,"tybetański (Chiny)"
+bo_IN,"tybetański (Indie)"
+ug,ujgurski
+ug_Arab_CN,"ujgurski (arabskie, Chiny)"
+ug_Arab,"ujgurski (arabskie)"
+ug_CN,"ujgurski (Chiny)"
+uk,ukraiński
+uk_UA,"ukraiński (Ukraina)"
+ur,urdu
+ur_IN,"urdu (Indie)"
+ur_PK,"urdu (Pakistan)"
+uz,uzbecki
+uz_AF,"uzbecki (Afganistan)"
+uz_Arab_AF,"uzbecki (arabskie, Afganistan)"
+uz_Arab,"uzbecki (arabskie)"
+uz_Cyrl_UZ,"uzbecki (cyrylica, Uzbekistan)"
+uz_Cyrl,"uzbecki (cyrylica)"
+uz_Latn_UZ,"uzbecki (łacińskie, Uzbekistan)"
+uz_Latn,"uzbecki (łacińskie)"
+uz_UZ,"uzbecki (Uzbekistan)"
+cy,walijski
+cy_GB,"walijski (Wielka Brytania)"
+hu,węgierski
+hu_HU,"węgierski (Węgry)"
+vi,wietnamski
+vi_VN,"wietnamski (Wietnam)"
+it,włoski
+it_SM,"włoski (San Marino)"
+it_CH,"włoski (Szwajcaria)"
+it_IT,"włoski (Włochy)"
+fy,zachodniofryzyjski
+fy_NL,"zachodniofryzyjski (Holandia)"
+zu,zulu
+zu_ZA,"zulu (Republika Południowej Afryki)"

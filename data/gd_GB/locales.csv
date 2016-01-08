@@ -1,0 +1,564 @@
+id,value
+af,Afraganais
+af_ZA,"Afraganais (Afraga a Deas)"
+af_NA,"Afraganais (An Namaib)"
+hy,Airmeinis
+hy_AM,"Airmeinis (Airmeinia)"
+ak,Akan
+ak_GH,"Akan (Gàna)"
+sq,Albàinis
+sq_XK,"Albàinis (A’ Chosobho)"
+sq_MK,"Albàinis (A’ Mhasadon)"
+sq_AL,"Albàinis (Albàinia)"
+am,Amtharais
+am_ET,"Amtharais (An Itiop)"
+ar,Arabais
+ar_DZ,"Arabais (Aildiria)"
+ar_YE,"Arabais (An Eaman)"
+ar_EG,"Arabais (An Èiphit)"
+ar_TD,"Arabais (An t-Seàd)"
+ar_SA,"Arabais (Aràibia nan Sabhd)"
+ar_BH,"Arabais (Bachrain)"
+ar_QA,"Arabais (Catar)"
+ar_KM,"Arabais (Comoros)"
+ar_KW,"Arabais (Cuibhèit)"
+ar_DJ,"Arabais (Diobùtaidh)"
+ar_ER,"Arabais (Eartra)"
+ar_IQ,"Arabais (Ioràc)"
+ar_JO,"Arabais (Iòrdan)"
+ar_IL,"Arabais (Iosrael)"
+ar_LB,"Arabais (Leabanon)"
+ar_LY,"Arabais (Libia)"
+ar_MR,"Arabais (Moratàinea)"
+ar_MA,"Arabais (Moroco)"
+ar_AE,"Arabais (Na h-Iomaratan Arabach Aonaichte)"
+ar_PS,"Arabais (Na Ranntairean Palastaineach)"
+ar_OM,"Arabais (Omàn)"
+ar_EH,"Arabais (Sathara an Iar)"
+ar_SY,"Arabais (Siridhea)"
+ar_SO,"Arabais (Somàilia)"
+ar_SS,"Arabais (Sudàn a Deas)"
+ar_SD,"Arabais (Sudàn)"
+ar_TN,"Arabais (Tuinisea)"
+as,Asamais
+as_IN,"Asamais (Na h-Innseachan)"
+az,Asarbaideànais
+az_AZ,"Asarbaideànais (Asarbaideàn)"
+az_Cyrl_AZ,"Asarbaideànais (Cirilis, Asarbaideàn)"
+az_Cyrl,"Asarbaideànais (Cirilis)"
+az_Latn_AZ,"Asarbaideànais (Laideann, Asarbaideàn)"
+az_Latn,"Asarbaideànais (Laideann)"
+bm,Bambara
+bm_Latn_ML,"Bambara (Laideann, Màili)"
+bm_Latn,"Bambara (Laideann)"
+eu,Basgais
+eu_ES,"Basgais (An Spàinn)"
+be,Bealaruisis
+be_BY,"Bealaruisis (A’ Bhealaruis)"
+bn,Beangailis
+bn_BD,"Beangailis (Bangladais)"
+bn_IN,"Beangailis (Na h-Innseachan)"
+en,Beurla
+en_BE,"Beurla (A’ Bheilg)"
+en_BZ,"Beurla (A’ Bheilìs)"
+en_GM,"Beurla (A’ Ghaimbia)"
+en_ZA,"Beurla (Afraga a Deas)"
+en_AG,"Beurla (Aintìoga is Barbuda)"
+en_NA,"Beurla (An Namaib)"
+en_GB,"Beurla (An Rìoghachd Aonaichte)"
+en_ZW,"Beurla (An t-Sìombab)"
+en_TZ,"Beurla (An Tansan)"
+en_AI,"Beurla (Anguilla)"
+en_AU,"Beurla (Astràilia)"
+en_BB,"Beurla (Barbados)"
+en_BM,"Beurla (Bearmùda)"
+en_BW,"Beurla (Botsuana)"
+en_CM,"Beurla (Camarun)"
+en_CA,"Beurla (Canada)"
+en_KE,"Beurla (Ceinia)"
+en_KI,"Beurla (Ciribeas)"
+en_JE,"Beurla (Deàrsaidh)"
+en_JM,"Beurla (Diameuga)"
+en_DG,"Beurla (Diego Garcia)"
+en_GI,"Beurla (Diobraltar)"
+en_DM,"Beurla (Doiminicea)"
+en_SZ,"Beurla (Dùthaich nan Suasaidh)"
+en_ER,"Beurla (Eartra)"
+en_IM,"Beurla (Eilean Mhanainn)"
+en_CX,"Beurla (Eilean na Nollaig)"
+en_SH,"Beurla (Eilean Naomh Eilidh)"
+en_NF,"Beurla (Eilean Norfolk)"
+en_PN,"Beurla (Eilean Peit a’ Chàirn)"
+en_VI,"Beurla (Eileanan Aimeireagach na Maighdinn)"
+en_VG,"Beurla (Eileanan Breatannach na Maighdinn)"
+en_CK,"Beurla (Eileanan Cook)"
+en_MH,"Beurla (Eileanan Mharshall)"
+en_SB,"Beurla (Eileanan Sholaimh)"
+en_IE,"Beurla (Èirinn)"
+en_FJ,"Beurla (Fìdi)"
+en_GH,"Beurla (Gàna)"
+en_GG,"Beurla (Geàrnsaidh)"
+en_PG,"Beurla (Gini Nuadh Phaputhach)"
+en_GD,"Beurla (Greanàda)"
+en_GU,"Beurla (Guam)"
+en_GY,"Beurla (Guidheàna)"
+en_HK,"Beurla (Hong Kong SAR na Sìne)"
+en_LS,"Beurla (Leasoto)"
+en_LR,"Beurla (Libèir)"
+en_MO,"Beurla (Macàthu SAR na Sìne)"
+en_MG,"Beurla (Madagasgar)"
+en_MW,"Beurla (Malabhaidh)"
+en_MY,"Beurla (Malaidhsea)"
+en_MT,"Beurla (Malta)"
+en_UM,"Beurla (Meanbh-Eileanan Iomallach nan Stàitean Aonaichte)"
+en_MS,"Beurla (Montsarat)"
+en_BS,"Beurla (Na h-Eileanan Bhathama)"
+en_KY,"Beurla (Na h-Eileanan Caimean)"
+en_CC,"Beurla (Na h-Eileanan Cocos (Keeling))"
+en_FK,"Beurla (Na h-Eileanan Fàclannach)"
+en_PH,"Beurla (Na h-Eileanan Filipineach)"
+en_MP,"Beurla (Na h-Eileanan Mairianach a Tuath)"
+en_MU,"Beurla (Na h-Eileanan Mhoiriseas)"
+en_SC,"Beurla (Na h-Eileanan Sheiseall)"
+en_TC,"Beurla (Na h-Eileanan Turcach is Caiceo)"
+en_IN,"Beurla (Na h-Innseachan)"
+en_FM,"Beurla (Na Meanbh-Eileanan)"
+en_US,"Beurla (Na Stàitean Aonaichte)"
+en_NR,"Beurla (Nabhru)"
+en_VC,"Beurla (Naomh Bhionsant agus Eileanan Greanadach)"
+en_KN,"Beurla (Naomh Crìstean is Nibheis)"
+en_LC,"Beurla (Naomh Lùisea)"
+en_NG,"Beurla (Nigèiria)"
+en_NU,"Beurla (Niue)"
+en_PK,"Beurla (Pagastàn)"
+en_PW,"Beurla (Palabh)"
+en_PR,"Beurla (Porto Rìceo)"
+en_IO,"Beurla (Ranntair Breatannach Cuan nan Innseachan)"
+en_RW,"Beurla (Rubhanda)"
+en_ZM,"Beurla (Sàimbia)"
+en_AS,"Beurla (Samotha na h-Aimeireaga)"
+en_WS,"Beurla (Samotha)"
+en_NZ,"Beurla (Sealainn Nuadh)"
+en_SL,"Beurla (Siarra Leòmhann)"
+en_SG,"Beurla (Singeapòr)"
+en_SX,"Beurla (Sint Maarten)"
+en_SS,"Beurla (Sudàn a Deas)"
+en_SD,"Beurla (Sudàn)"
+en_TK,"Beurla (Tokelau)"
+en_TO,"Beurla (Tonga)"
+en_TT,"Beurla (Trianaid agus Tobago)"
+en_TV,"Beurla (Tubhalu)"
+en_UG,"Beurla (Uganda)"
+en_VU,"Beurla (Vanuatu)"
+vi,Bhiet-Namais
+vi_VN,"Bhiet-Namais (Bhiet-Nam)"
+nb,"Bokmål na Nirribhidh"
+nb_NO,"Bokmål na Nirribhidh (An Nirribhidh)"
+nb_SJ,"Bokmål na Nirribhidh (Svalbard agus Jan Mayen)"
+bs,Bosnais
+bs_BA,"Bosnais (Bosna agus Hearsagobhana)"
+bs_Cyrl_BA,"Bosnais (Cirilis, Bosna agus Hearsagobhana)"
+bs_Cyrl,"Bosnais (Cirilis)"
+bs_Latn_BA,"Bosnais (Laideann, Bosna agus Hearsagobhana)"
+bs_Latn,"Bosnais (Laideann)"
+br,Breatnais
+br_FR,"Breatnais (An Fhraing)"
+bg,Bulgarais
+bg_BG,"Bulgarais (A’ Bhulgair)"
+my,Burmais
+my_MM,"Burmais (Miànmar (Burma))"
+ka,Cairtbheilis
+ka_GE,"Cairtbheilis (A’ Chairtbheil)"
+ks,Caismiris
+ks_Arab_IN,"Caismiris (Arabais, Na h-Innseachan)"
+ks_Arab,"Caismiris (Arabais)"
+ks_IN,"Caismiris (Na h-Innseachan)"
+kk,Casachais
+kk_KZ,"Casachais (Casachstàn)"
+kk_Cyrl_KZ,"Casachais (Cirilis, Casachstàn)"
+kk_Cyrl,"Casachais (Cirilis)"
+ca,Catalanais
+ca_IT,"Catalanais (An Eadailt)"
+ca_FR,"Catalanais (An Fhraing)"
+ca_ES,"Catalanais (An Spàinn)"
+ca_AD,"Catalanais (Andorra)"
+qu,Ceatsua
+qu_BO,"Ceatsua (Boilibhia)"
+qu_EC,"Ceatsua (Eacuador)"
+qu_PE,"Ceatsua (Pearù)"
+ky,Cìorgasais
+ky_KG,"Cìorgasais (Cìorgastan)"
+ky_Cyrl_KG,"Cìorgasais (Cirilis, Cìorgastan)"
+ky_Cyrl,"Cìorgasais (Cirilis)"
+km,Cmèar
+km_KH,"Cmèar (Cambuidea)"
+ko,Coirèanais
+ko_KR,"Coirèanais (Coirèa a Deas)"
+ko_KP,"Coirèanais (Coirèa a Tuath)"
+kw,Còrnais
+kw_GB,"Còrnais (An Rìoghachd Aonaichte)"
+hr,Cròthaisis
+hr_HR,"Cròthaisis (A’ Chròthais)"
+hr_BA,"Cròthaisis (Bosna agus Hearsagobhana)"
+cy,Cuimris
+cy_GB,"Cuimris (An Rìoghachd Aonaichte)"
+da,Danmhairgis
+da_GL,"Danmhairgis (A’ Ghraonlann)"
+da_DK,"Danmhairgis (An Danmhairg)"
+nl,Duitsis
+nl_BE,"Duitsis (A’ Bheilg)"
+nl_AW,"Duitsis (Arùba)"
+nl_CW,"Duitsis (Curaçao)"
+nl_BQ,"Duitsis (Na Tìrean Ìsle Caraibeach)"
+nl_NL,"Duitsis (Na Tìrean Ìsle)"
+nl_SX,"Duitsis (Sint Maarten)"
+nl_SR,"Duitsis (Suranam)"
+dz,Dzongkha
+dz_BT,"Dzongkha (Butàn)"
+he,Eabhra
+he_IL,"Eabhra (Iosrael)"
+it,Eadailtis
+it_IT,"Eadailtis (An Eadailt)"
+it_CH,"Eadailtis (An Eilbheis)"
+it_SM,"Eadailtis (San Marino)"
+et,Eastoinis
+et_EE,"Eastoinis (An Eastoin)"
+eo,Esperanto
+ee,Ewe
+ee_GH,"Ewe (Gàna)"
+ee_TG,"Ewe (Togo)"
+fo,Fàrothais
+fo_FO,"Fàrothais (Na h-Eileanan Fàro)"
+fa,Farsaidh
+fa_AF,"Farsaidh (Afghanastàn)"
+fa_IR,"Farsaidh (Ioràn)"
+fi,Fionnlannais
+fi_FI,"Fionnlannais (An Fhionnlann)"
+fr,Fraingis
+fr_BE,"Fraingis (A’ Bheilg)"
+fr_CG,"Fraingis (A’ Chongo - Brazzaville)"
+fr_DZ,"Fraingis (Aildiria)"
+fr_CH,"Fraingis (An Eilbheis)"
+fr_FR,"Fraingis (An Fhraing)"
+fr_TD,"Fraingis (An t-Seàd)"
+fr_BJ,"Fraingis (Beinin)"
+fr_BF,"Fraingis (Buirciona Faso)"
+fr_BI,"Fraingis (Burundaidh)"
+fr_NC,"Fraingis (Cailleann Nuadh)"
+fr_CM,"Fraingis (Camarun)"
+fr_CA,"Fraingis (Canada)"
+fr_KM,"Fraingis (Comoros)"
+fr_CD,"Fraingis (Congo - Kinshasa)"
+fr_CI,"Fraingis (Côte d’Ivoire)"
+fr_DJ,"Fraingis (Diobùtaidh)"
+fr_GA,"Fraingis (Gabon)"
+fr_GQ,"Fraingis (Gini Mheadhan-Chriosach)"
+fr_GN,"Fraingis (Gini)"
+fr_GP,"Fraingis (Guadalup)"
+fr_GF,"Fraingis (Guidheàna na Frainge)"
+fr_HT,"Fraingis (Haidhti)"
+fr_LU,"Fraingis (Lugsamburg)"
+fr_MG,"Fraingis (Madagasgar)"
+fr_ML,"Fraingis (Màili)"
+fr_MQ,"Fraingis (Mairtinic)"
+fr_YT,"Fraingis (Mayotte)"
+fr_MC,"Fraingis (Monaco)"
+fr_MR,"Fraingis (Moratàinea)"
+fr_MA,"Fraingis (Moroco)"
+fr_MU,"Fraingis (Na h-Eileanan Mhoiriseas)"
+fr_SC,"Fraingis (Na h-Eileanan Sheiseall)"
+fr_MF,"Fraingis (Naomh Màrtainn)"
+fr_NE,"Fraingis (Nìgeir)"
+fr_CF,"Fraingis (Poblachd Meadhan Afraga)"
+fr_PF,"Fraingis (Poilinèis na Frainge)"
+fr_RE,"Fraingis (Réunion)"
+fr_RW,"Fraingis (Rubhanda)"
+fr_BL,"Fraingis (Saint Barthélemy)"
+fr_PM,"Fraingis (Saint Pierre agus Miquelon)"
+fr_SN,"Fraingis (Seanagal)"
+fr_SY,"Fraingis (Siridhea)"
+fr_TG,"Fraingis (Togo)"
+fr_TN,"Fraingis (Tuinisea)"
+fr_WF,"Fraingis (Uallas agus Futuna)"
+fr_VU,"Fraingis (Vanuatu)"
+fy,"Frìoslannais Siarach"
+fy_NL,"Frìoslannais Siarach (Na Tìrean Ìsle)"
+ff,Fulah
+ff_CM,"Fulah (Cameroon)"
+ff_GN,"Fulah (Guinea)"
+ff_MR,"Fulah (Mauritania)"
+ff_SN,"Fulah (Senegal)"
+ga,Gaeilge
+ga_IE,"Gaeilge (Èirinn)"
+gv,Gaelg
+gv_IM,"Gaelg (Eilean Mhanainn)"
+gd,Gàidhlig
+gd_GB,"Gàidhlig (An Rìoghachd Aonaichte)"
+gl,Gailìsis
+gl_ES,"Gailìsis (An Spàinn)"
+lg,Ganda
+lg_UG,"Ganda (Uganda)"
+de,Gearmailtis
+de_BE,"Gearmailtis (A’ Bheilg)"
+de_DE,"Gearmailtis (A’ Ghearmailt)"
+de_CH,"Gearmailtis (An Eilbheis)"
+de_AT,"Gearmailtis (An Ostair)"
+de_LI,"Gearmailtis (Lichtenstein)"
+de_LU,"Gearmailtis (Lugsamburg)"
+el,Greugais
+el_GR,"Greugais (A’ Ghreug)"
+el_CY,"Greugais (Cìopras)"
+gu,Gujarati
+gu_IN,"Gujarati (Na h-Innseachan)"
+ha,Hausa
+ha_GH,"Hausa (Gàna)"
+ha_Latn_GH,"Hausa (Laideann, Gàna)"
+ha_Latn_NE,"Hausa (Laideann, Nìgeir)"
+ha_Latn_NG,"Hausa (Laideann, Nigèiria)"
+ha_Latn,"Hausa (Laideann)"
+ha_NE,"Hausa (Nìgeir)"
+ha_NG,"Hausa (Nigèiria)"
+hi,Hindis
+hi_IN,"Hindis (Na h-Innseachan)"
+ig,Igbo
+ig_NG,"Igbo (Nigèiria)"
+id,Innd-Innsis
+id_ID,"Innd-Innsis (Na h-Innd Innse)"
+is,"Innis Tìlis"
+is_IS,"Innis Tìlis (Innis Tìle)"
+yo,Ioruba
+yo_BJ,"Ioruba (Beinin)"
+yo_NG,"Ioruba (Nigèiria)"
+yi,Iùdhais
+kl,Kalaallisut
+kl_GL,"Kalaallisut (A’ Ghraonlann)"
+kn,Kannada
+kn_IN,"Kannada (Na h-Innseachan)"
+ki,Kikuyu
+ki_KE,"Kikuyu (Ceinia)"
+rw,Kinyarwanda
+rw_RW,"Kinyarwanda (Rubhanda)"
+rn,Kirundi
+rn_BI,"Kirundi (Burundaidh)"
+sw,Kiswahili
+sw_TZ,"Kiswahili (An Tansan)"
+sw_KE,"Kiswahili (Ceinia)"
+sw_UG,"Kiswahili (Uganda)"
+lv,Laitbheis
+lv_LV,"Laitbheis (An Laitbhe)"
+lo,Làtho
+lo_LA,"Làtho (Làthos)"
+ln,Lingala
+ln_CG,"Lingala (A’ Chongo - Brazzaville)"
+ln_AO,"Lingala (Angòla)"
+ln_CD,"Lingala (Congo - Kinshasa)"
+ln_CF,"Lingala (Poblachd Meadhan Afraga)"
+lt,Liotuainis
+lt_LT,"Liotuainis (An Liotuain)"
+lu,Luba-Katanga
+lu_CD,"Luba-Katanga (Congo - Kinshasa)"
+lb,Lugsamburgais
+lb_LU,"Lugsamburgais (Lugsamburg)"
+mg,Malagasais
+mg_MG,"Malagasais (Madagasgar)"
+ms,Malaidhis
+ms_BN,"Malaidhis (Brùnaigh)"
+ms_Latn_BN,"Malaidhis (Laideann, Brùnaigh)"
+ms_Latn_MY,"Malaidhis (Laideann, Malaidhsea)"
+ms_Latn_SG,"Malaidhis (Laideann, Singeapòr)"
+ms_Latn,"Malaidhis (Laideann)"
+ms_MY,"Malaidhis (Malaidhsea)"
+ms_SG,"Malaidhis (Singeapòr)"
+ml,Malayalam
+ml_IN,"Malayalam (Na h-Innseachan)"
+mt,Maltais
+mt_MT,"Maltais (Malta)"
+mr,Marathi
+mr_IN,"Marathi (Na h-Innseachan)"
+mk,Masadonais
+mk_MK,"Masadonais (A’ Mhasadon)"
+mn,Mongolais
+mn_Cyrl_MN,"Mongolais (Cirilis, Dùthaich nam Mongol)"
+mn_Cyrl,"Mongolais (Cirilis)"
+mn_MN,"Mongolais (Dùthaich nam Mongol)"
+nd,"Ndebele Thuathach"
+nd_ZW,"Ndebele Thuathach (An t-Sìombab)"
+ne,Neapàilis
+ne_IN,"Neapàilis (Na h-Innseachan)"
+ne_NP,"Neapàilis (Neapàl)"
+no,Nirribhis
+no_NO,"Nirribhis (An Nirribhidh)"
+nn,"Nynorsk na Nirribhidh"
+nn_NO,"Nynorsk na Nirribhidh (An Nirribhidh)"
+or,Oriya
+or_IN,"Oriya (Na h-Innseachan)"
+om,Oromo
+om_ET,"Oromo (An Itiop)"
+om_KE,"Oromo (Ceinia)"
+os,Ossetic
+os_GE,"Ossetic (A’ Chairtbheil)"
+os_RU,"Ossetic (An Ruis)"
+ps,Pachtu
+ps_AF,"Pachtu (Afghanastàn)"
+pa,Panjabi
+pa_Arab_PK,"Panjabi (Arabais, Pagastàn)"
+pa_Arab,"Panjabi (Arabais)"
+pa_Guru_IN,"Panjabi (Gurmukhi, Na h-Innseachan)"
+pa_Guru,"Panjabi (Gurmukhi)"
+pa_IN,"Panjabi (Na h-Innseachan)"
+pa_PK,"Panjabi (Pagastàn)"
+pl,Pòlainnis
+pl_PL,"Pòlainnis (A’ Phòlainn)"
+pt,Portagailis
+pt_PT,"Portagailis (A’ Phortagail)"
+pt_CV,"Portagailis (An Ceap Uaine)"
+pt_AO,"Portagailis (Angòla)"
+pt_BR,"Portagailis (Braisil)"
+pt_GW,"Portagailis (Gini-Bioso)"
+pt_MO,"Portagailis (Macàthu SAR na Sìne)"
+pt_MZ,"Portagailis (Mòsaimbic)"
+pt_ST,"Portagailis (São Tomé agus Príncipe)"
+pt_TL,"Portagailis (Timor-Leste)"
+ro,Romàinis
+ro_MD,"Romàinis (A’ Mholdobha)"
+ro_RO,"Romàinis (Romàinia)"
+ru,Ruisis
+ru_BY,"Ruisis (A’ Bhealaruis)"
+ru_MD,"Ruisis (A’ Mholdobha)"
+ru_RU,"Ruisis (An Ruis)"
+ru_UA,"Ruisis (An Ucràin)"
+ru_KZ,"Ruisis (Casachstàn)"
+ru_KG,"Ruisis (Cìorgastan)"
+rm,Rumains
+rm_CH,"Rumains (An Eilbheis)"
+se,"Sàmais Thuathach"
+se_FI,"Sàmais Thuathach (An Fhionnlann)"
+se_NO,"Sàmais Thuathach (An Nirribhidh)"
+se_SE,"Sàmais Thuathach (An t-Suain)"
+sg,Sango
+sg_CF,"Sango (Poblachd Meadhan Afraga)"
+cs,Seacais
+cs_CZ,"Seacais (Poblachd na Seice)"
+ja,Seapanais
+ja_JP,"Seapanais (An t-Seapan)"
+sr,Sèirbis
+sr_XK,"Sèirbis (A’ Chosobho)"
+sr_ME,"Sèirbis (Am Monadh Neagrach)"
+sr_RS,"Sèirbis (An t-Sèirb)"
+sr_BA,"Sèirbis (Bosna agus Hearsagobhana)"
+sr_Cyrl_XK,"Sèirbis (Cirilis, A’ Chosobho)"
+sr_Cyrl_ME,"Sèirbis (Cirilis, Am Monadh Neagrach)"
+sr_Cyrl_RS,"Sèirbis (Cirilis, An t-Sèirb)"
+sr_Cyrl_BA,"Sèirbis (Cirilis, Bosna agus Hearsagobhana)"
+sr_Cyrl,"Sèirbis (Cirilis)"
+sr_Latn_XK,"Sèirbis (Laideann, A’ Chosobho)"
+sr_Latn_ME,"Sèirbis (Laideann, Am Monadh Neagrach)"
+sr_Latn_RS,"Sèirbis (Laideann, An t-Sèirb)"
+sr_Latn_BA,"Sèirbis (Laideann, Bosna agus Hearsagobhana)"
+sr_Latn,"Sèirbis (Laideann)"
+sh,Serbo-Croatian
+sh_BA,"Serbo-Croatian (Bosnia & Herzegovina)"
+sn,Shona
+sn_ZW,"Shona (An t-Sìombab)"
+si,Sinhala
+si_LK,"Sinhala (Sri Lanca)"
+zh,Sìnis
+zh_CN,"Sìnis (An t-Sìn)"
+zh_HK,"Sìnis (Hong Kong SAR na Sìne)"
+zh_MO,"Sìnis (Macàthu SAR na Sìne)"
+zh_Hans_CN,"Sìnis (Simplichte, An t-Sìn)"
+zh_Hans_HK,"Sìnis (Simplichte, Hong Kong SAR na Sìne)"
+zh_Hans_MO,"Sìnis (Simplichte, Macàthu SAR na Sìne)"
+zh_Hans_SG,"Sìnis (Simplichte, Singeapòr)"
+zh_Hans,"Sìnis (Simplichte)"
+zh_SG,"Sìnis (Singeapòr)"
+zh_TW,"Sìnis (Taidh-Bhàn)"
+zh_Hant_HK,"Sìnis (Tradaiseanta, Hong Kong SAR na Sìne)"
+zh_Hant_MO,"Sìnis (Tradaiseanta, Macàthu SAR na Sìne)"
+zh_Hant_TW,"Sìnis (Tradaiseanta, Taidh-Bhàn)"
+zh_Hant,"Sìnis (Tradaiseanta)"
+sk,Slòbhacais
+sk_SK,"Slòbhacais (An t-Slòbhac)"
+sl,Slòbhainis
+sl_SI,"Slòbhainis (An t-Slòbhain)"
+so,Somàilis
+so_ET,"Somàilis (An Itiop)"
+so_KE,"Somàilis (Ceinia)"
+so_DJ,"Somàilis (Diobùtaidh)"
+so_SO,"Somàilis (Somàilia)"
+es,Spàinntis
+es_VE,"Spàinntis (A’ Bheiniseala)"
+es_DO,"Spàinntis (A’ Phoblachd Dhoiminiceach)"
+es_AR,"Spàinntis (An Argantain)"
+es_SV,"Spàinntis (An Salbhador)"
+es_ES,"Spàinntis (An Spàinn)"
+es_CL,"Spàinntis (An t-Sile)"
+es_BO,"Spàinntis (Boilibhia)"
+es_EA,"Spàinntis (Ceuta agus Melilla)"
+es_CO,"Spàinntis (Coloimbia)"
+es_CR,"Spàinntis (Costa Rìcea)"
+es_CU,"Spàinntis (Cùba)"
+es_EC,"Spàinntis (Eacuador)"
+es_GQ,"Spàinntis (Gini Mheadhan-Chriosach)"
+es_GT,"Spàinntis (Guatamala)"
+es_HN,"Spàinntis (Hondùras)"
+es_MX,"Spàinntis (Meagsago)"
+es_IC,"Spàinntis (Na h-Eileanan Canàrach)"
+es_PH,"Spàinntis (Na h-Eileanan Filipineach)"
+es_US,"Spàinntis (Na Stàitean Aonaichte)"
+es_NI,"Spàinntis (Niocaragua)"
+es_PA,"Spàinntis (Panama)"
+es_PY,"Spàinntis (Paraguaidh)"
+es_PE,"Spàinntis (Pearù)"
+es_PR,"Spàinntis (Porto Rìceo)"
+es_UY,"Spàinntis (Uruguaidh)"
+sv,Suainis
+sv_FI,"Suainis (An Fhionnlann)"
+sv_SE,"Suainis (An t-Suain)"
+sv_AX,"Suainis (Na h-Eileanan Åland)"
+tl,Tagalog
+tl_PH,"Tagalog (Na h-Eileanan Filipineach)"
+th,Tàidh
+th_TH,"Tàidh (Dùthaich nan Tàidh)"
+ta,Taimilis
+ta_MY,"Taimilis (Malaidhsea)"
+ta_IN,"Taimilis (Na h-Innseachan)"
+ta_SG,"Taimilis (Singeapòr)"
+ta_LK,"Taimilis (Sri Lanca)"
+te,Telugu
+te_IN,"Telugu (Na h-Innseachan)"
+bo,Tibeitis
+bo_CN,"Tibeitis (An t-Sìn)"
+bo_IN,"Tibeitis (Na h-Innseachan)"
+ti,Tigrinya
+ti_ET,"Tigrinya (An Itiop)"
+ti_ER,"Tigrinya (Eartra)"
+to,Tongais
+to_TO,"Tongais (Tonga)"
+tr,Turcais
+tr_TR,"Turcais (An Tuirc)"
+tr_CY,"Turcais (Cìopras)"
+uk,Ucràinis
+uk_UA,"Ucràinis (An Ucràin)"
+ug,Ùigiurais
+ug_CN,"Ùigiurais (An t-Sìn)"
+ug_Arab_CN,"Ùigiurais (Arabais, An t-Sìn)"
+ug_Arab,"Ùigiurais (Arabais)"
+hu,Ungairis
+hu_HU,"Ungairis (An Ungair)"
+ur,Ùrdu
+ur_IN,"Ùrdu (Na h-Innseachan)"
+ur_PK,"Ùrdu (Pagastàn)"
+uz,Usbagais
+uz_AF,"Usbagais (Afghanastàn)"
+uz_Arab_AF,"Usbagais (Arabais, Afghanastàn)"
+uz_Arab,"Usbagais (Arabais)"
+uz_Cyrl_UZ,"Usbagais (Cirilis, Usbagastàn)"
+uz_Cyrl,"Usbagais (Cirilis)"
+uz_Latn_UZ,"Usbagais (Laideann, Usbagastàn)"
+uz_Latn,"Usbagais (Laideann)"
+uz_UZ,"Usbagais (Usbagastàn)"
+ii,"Yi Sichuan"
+ii_CN,"Yi Sichuan (An t-Sìn)"
+zu,Zulu
+zu_ZA,"Zulu (Afraga a Deas)"

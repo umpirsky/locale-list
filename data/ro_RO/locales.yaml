@@ -1,0 +1,563 @@
+af: afrikaans
+af_ZA: 'afrikaans (Africa de Sud)'
+af_NA: 'afrikaans (Namibia)'
+ak: akan
+ak_GH: 'akan (Ghana)'
+sq: albaneză
+sq_AL: 'albaneză (Albania)'
+sq_XK: 'albaneză (Kosovo)'
+sq_MK: 'albaneză (Macedonia)'
+am: amharică
+am_ET: 'amharică (Etiopia)'
+ar: arabă
+ar_DZ: 'arabă (Algeria)'
+ar_SA: 'arabă (Arabia Saudită)'
+ar_BH: 'arabă (Bahrain)'
+ar_TD: 'arabă (Ciad)'
+ar_KM: 'arabă (Comore)'
+ar_DJ: 'arabă (Djibouti)'
+ar_EG: 'arabă (Egipt)'
+ar_AE: 'arabă (Emiratele Arabe Unite)'
+ar_ER: 'arabă (Eritreea)'
+ar_JO: 'arabă (Iordania)'
+ar_IQ: 'arabă (Irak)'
+ar_IL: 'arabă (Israel)'
+ar_KW: 'arabă (Kuweit)'
+ar_LB: 'arabă (Liban)'
+ar_LY: 'arabă (Libia)'
+ar_MA: 'arabă (Maroc)'
+ar_MR: 'arabă (Mauritania)'
+ar_OM: 'arabă (Oman)'
+ar_QA: 'arabă (Qatar)'
+ar_EH: 'arabă (Sahara Occidentală)'
+ar_SY: 'arabă (Siria)'
+ar_SO: 'arabă (Somalia)'
+ar_SD: 'arabă (Sudan)'
+ar_SS: 'arabă (Sudanul de Sud)'
+ar_PS: 'arabă (Teritoriile Palestiniene)'
+ar_TN: 'arabă (Tunisia)'
+ar_YE: 'arabă (Yemen)'
+hy: armeană
+hy_AM: 'armeană (Armenia)'
+as: asameză
+as_IN: 'asameză (India)'
+az: azeră
+az_AZ: 'azeră (Azerbaidjan)'
+az_Cyrl_AZ: 'azeră (chirilică, Azerbaidjan)'
+az_Cyrl: 'azeră (chirilică)'
+az_Latn_AZ: 'azeră (latină, Azerbaidjan)'
+az_Latn: 'azeră (latină)'
+bm: bambara
+bm_Latn_ML: 'bambara (latină, Mali)'
+bm_Latn: 'bambara (latină)'
+eu: bască
+eu_ES: 'bască (Spania)'
+bn: bengaleză
+bn_BD: 'bengaleză (Bangladesh)'
+bn_IN: 'bengaleză (India)'
+be: bielorusă
+be_BY: 'bielorusă (Belarus)'
+my: birmaneză
+my_MM: 'birmaneză (Myanmar (Birmania))'
+bs: bosniacă
+bs_BA: 'bosniacă (Bosnia și Herțegovina)'
+bs_Cyrl_BA: 'bosniacă (chirilică, Bosnia și Herțegovina)'
+bs_Cyrl: 'bosniacă (chirilică)'
+bs_Latn_BA: 'bosniacă (latină, Bosnia și Herțegovina)'
+bs_Latn: 'bosniacă (latină)'
+br: bretonă
+br_FR: 'bretonă (Franța)'
+bg: bulgară
+bg_BG: 'bulgară (Bulgaria)'
+ks: cașmiră
+ks_Arab_IN: 'cașmiră (arabă, India)'
+ks_Arab: 'cașmiră (arabă)'
+ks_IN: 'cașmiră (India)'
+ca: catalană
+ca_AD: 'catalană (Andorra)'
+ca_FR: 'catalană (Franța)'
+ca_IT: 'catalană (Italia)'
+ca_ES: 'catalană (Spania)'
+cs: cehă
+cs_CZ: 'cehă (Republica Cehă)'
+zh: chineză
+zh_CN: 'chineză (China)'
+zh_HK: 'chineză (R.A.S. Hong Kong a Chinei)'
+zh_MO: 'chineză (R.A.S. Macao a Chinei)'
+zh_Hans_CN: 'chineză (simplificată, China)'
+zh_Hans_HK: 'chineză (simplificată, R.A.S. Hong Kong a Chinei)'
+zh_Hans_MO: 'chineză (simplificată, R.A.S. Macao a Chinei)'
+zh_Hans_SG: 'chineză (simplificată, Singapore)'
+zh_Hans: 'chineză (simplificată)'
+zh_SG: 'chineză (Singapore)'
+zh_TW: 'chineză (Taiwan)'
+zh_Hant_HK: 'chineză (tradițională, R.A.S. Hong Kong a Chinei)'
+zh_Hant_MO: 'chineză (tradițională, R.A.S. Macao a Chinei)'
+zh_Hant_TW: 'chineză (tradițională, Taiwan)'
+zh_Hant: 'chineză (tradițională)'
+ko: coreeană
+ko_KP: 'coreeană (Coreea de Nord)'
+ko_KR: 'coreeană (Coreea de Sud)'
+kw: cornică
+kw_GB: 'cornică (Regatul Unit)'
+hr: croată
+hr_BA: 'croată (Bosnia și Herțegovina)'
+hr_HR: 'croată (Croația)'
+da: daneză
+da_DK: 'daneză (Danemarca)'
+da_GL: 'daneză (Groenlanda)'
+dz: dzongkha
+dz_BT: 'dzongkha (Bhutan)'
+he: ebraică
+he_IL: 'ebraică (Israel)'
+en: engleză
+en_ZA: 'engleză (Africa de Sud)'
+en_AI: 'engleză (Anguilla)'
+en_AG: 'engleză (Antigua și Barbuda)'
+en_AU: 'engleză (Australia)'
+en_BS: 'engleză (Bahamas)'
+en_BB: 'engleză (Barbados)'
+en_BE: 'engleză (Belgia)'
+en_BZ: 'engleză (Belize)'
+en_BM: 'engleză (Bermuda)'
+en_BW: 'engleză (Botswana)'
+en_CM: 'engleză (Camerun)'
+en_CA: 'engleză (Canada)'
+en_DG: 'engleză (Diego Garcia)'
+en_DM: 'engleză (Dominica)'
+en_ER: 'engleză (Eritreea)'
+en_FJ: 'engleză (Fiji)'
+en_PH: 'engleză (Filipine)'
+en_GM: 'engleză (Gambia)'
+en_GH: 'engleză (Ghana)'
+en_GI: 'engleză (Gibraltar)'
+en_GD: 'engleză (Grenada)'
+en_GU: 'engleză (Guam)'
+en_GG: 'engleză (Guernsey)'
+en_GY: 'engleză (Guyana)'
+en_IN: 'engleză (India)'
+en_CX: 'engleză (Insula Christmas)'
+en_IM: 'engleză (Insula Man)'
+en_KY: 'engleză (Insulele Cayman)'
+en_CC: 'engleză (Insulele Cocos (Keeling))'
+en_CK: 'engleză (Insulele Cook)'
+en_FK: 'engleză (Insulele Falkland)'
+en_UM: 'engleză (Insulele Îndepărtate ale S.U.A.)'
+en_MP: 'engleză (Insulele Mariane de Nord)'
+en_MH: 'engleză (Insulele Marshall)'
+en_NF: 'engleză (Insulele Norfolk)'
+en_PN: 'engleză (Insulele Pitcairn)'
+en_SB: 'engleză (Insulele Solomon)'
+en_TC: 'engleză (Insulele Turks și Caicos)'
+en_VG: 'engleză (Insulele Virgine Britanice)'
+en_VI: 'engleză (Insulele Virgine S.U.A.)'
+en_IE: 'engleză (Irlanda)'
+en_JM: 'engleză (Jamaica)'
+en_JE: 'engleză (Jersey)'
+en_KE: 'engleză (Kenya)'
+en_KI: 'engleză (Kiribati)'
+en_LS: 'engleză (Lesotho)'
+en_LR: 'engleză (Liberia)'
+en_MG: 'engleză (Madagascar)'
+en_MY: 'engleză (Malaezia)'
+en_MW: 'engleză (Malawi)'
+en_MT: 'engleză (Malta)'
+en_MU: 'engleză (Mauritius)'
+en_FM: 'engleză (Micronezia)'
+en_MS: 'engleză (Montserrat)'
+en_NA: 'engleză (Namibia)'
+en_NR: 'engleză (Nauru)'
+en_NG: 'engleză (Nigeria)'
+en_NU: 'engleză (Niue)'
+en_NZ: 'engleză (Noua Zeelandă)'
+en_PK: 'engleză (Pakistan)'
+en_PW: 'engleză (Palau)'
+en_PG: 'engleză (Papua-Noua Guinee)'
+en_PR: 'engleză (Puerto Rico)'
+en_HK: 'engleză (R.A.S. Hong Kong a Chinei)'
+en_MO: 'engleză (R.A.S. Macao a Chinei)'
+en_GB: 'engleză (Regatul Unit)'
+en_RW: 'engleză (Rwanda)'
+en_KN: 'engleză (Saint Kitts și Nevis)'
+en_VC: 'engleză (Saint Vincent și Grenadine)'
+en_AS: 'engleză (Samoa Americană)'
+en_WS: 'engleză (Samoa)'
+en_SC: 'engleză (Seychelles)'
+en_SH: 'engleză (Sfânta Elena)'
+en_LC: 'engleză (Sfânta Lucia)'
+en_SL: 'engleză (Sierra Leone)'
+en_SG: 'engleză (Singapore)'
+en_SX: 'engleză (Sint-Maarten)'
+en_US: 'engleză (Statele Unite ale Americii)'
+en_SD: 'engleză (Sudan)'
+en_SS: 'engleză (Sudanul de Sud)'
+en_SZ: 'engleză (Swaziland)'
+en_TZ: 'engleză (Tanzania)'
+en_IO: 'engleză (Teritoriul Britanic din Oceanul Indian)'
+en_TK: 'engleză (Tokelau)'
+en_TO: 'engleză (Tonga)'
+en_TT: 'engleză (Trinidad și Tobago)'
+en_TV: 'engleză (Tuvalu)'
+en_UG: 'engleză (Uganda)'
+en_VU: 'engleză (Vanuatu)'
+en_ZM: 'engleză (Zambia)'
+en_ZW: 'engleză (Zimbabwe)'
+eo: esperanto
+et: estoniană
+et_EE: 'estoniană (Estonia)'
+ee: ewe
+ee_GH: 'ewe (Ghana)'
+ee_TG: 'ewe (Togo)'
+fo: faroeză
+fo_FO: 'faroeză (Insulele Feroe)'
+fi: finlandeză
+fi_FI: 'finlandeză (Finlanda)'
+fr: franceză
+fr_DZ: 'franceză (Algeria)'
+fr_BE: 'franceză (Belgia)'
+fr_BJ: 'franceză (Benin)'
+fr_BF: 'franceză (Burkina Faso)'
+fr_BI: 'franceză (Burundi)'
+fr_CM: 'franceză (Camerun)'
+fr_CA: 'franceză (Canada)'
+fr_TD: 'franceză (Ciad)'
+fr_KM: 'franceză (Comore)'
+fr_CG: 'franceză (Congo - Brazzaville)'
+fr_CD: 'franceză (Congo - Kinshasa)'
+fr_CI: 'franceză (Côte d’Ivoire)'
+fr_DJ: 'franceză (Djibouti)'
+fr_CH: 'franceză (Elveția)'
+fr_FR: 'franceză (Franța)'
+fr_GA: 'franceză (Gabon)'
+fr_GP: 'franceză (Guadelupa)'
+fr_GQ: 'franceză (Guineea Ecuatorială)'
+fr_GN: 'franceză (Guineea)'
+fr_GF: 'franceză (Guyana Franceză)'
+fr_HT: 'franceză (Haiti)'
+fr_LU: 'franceză (Luxemburg)'
+fr_MG: 'franceză (Madagascar)'
+fr_ML: 'franceză (Mali)'
+fr_MA: 'franceză (Maroc)'
+fr_MQ: 'franceză (Martinica)'
+fr_MR: 'franceză (Mauritania)'
+fr_MU: 'franceză (Mauritius)'
+fr_YT: 'franceză (Mayotte)'
+fr_MC: 'franceză (Monaco)'
+fr_NE: 'franceză (Niger)'
+fr_NC: 'franceză (Noua Caledonie)'
+fr_PF: 'franceză (Polinezia Franceză)'
+fr_CF: 'franceză (Republica Centrafricană)'
+fr_RE: 'franceză (Réunion)'
+fr_RW: 'franceză (Rwanda)'
+fr_PM: 'franceză (Saint-Pierre și Miquelon)'
+fr_SN: 'franceză (Senegal)'
+fr_SC: 'franceză (Seychelles)'
+fr_BL: 'franceză (Sfântul Bartolomeu)'
+fr_MF: 'franceză (Sfântul Martin)'
+fr_SY: 'franceză (Siria)'
+fr_TG: 'franceză (Togo)'
+fr_TN: 'franceză (Tunisia)'
+fr_VU: 'franceză (Vanuatu)'
+fr_WF: 'franceză (Wallis și Futuna)'
+fy: 'frizonă occidentală'
+fy_NL: 'frizonă occidentală (Țările de Jos)'
+ff: fulah
+ff_CM: 'fulah (Camerun)'
+ff_GN: 'fulah (Guineea)'
+ff_MR: 'fulah (Mauritania)'
+ff_SN: 'fulah (Senegal)'
+gd: 'gaelică scoțiană'
+gd_GB: 'gaelică scoțiană (Regatul Unit)'
+cy: galeză
+cy_GB: 'galeză (Regatul Unit)'
+gl: galiciană
+gl_ES: 'galiciană (Spania)'
+lg: ganda
+lg_UG: 'ganda (Uganda)'
+ka: georgiană
+ka_GE: 'georgiană (Georgia)'
+de: germană
+de_AT: 'germană (Austria)'
+de_BE: 'germană (Belgia)'
+de_CH: 'germană (Elveția)'
+de_DE: 'germană (Germania)'
+de_LI: 'germană (Liechtenstein)'
+de_LU: 'germană (Luxemburg)'
+el: greacă
+el_CY: 'greacă (Cipru)'
+el_GR: 'greacă (Grecia)'
+gu: gujarati
+gu_IN: 'gujarati (India)'
+ha: hausa
+ha_GH: 'hausa (Ghana)'
+ha_Latn_GH: 'hausa (latină, Ghana)'
+ha_Latn_NE: 'hausa (latină, Niger)'
+ha_Latn_NG: 'hausa (latină, Nigeria)'
+ha_Latn: 'hausa (latină)'
+ha_NE: 'hausa (Niger)'
+ha_NG: 'hausa (Nigeria)'
+hi: hindi
+hi_IN: 'hindi (India)'
+yi: idiș
+ig: igbo
+ig_NG: 'igbo (Nigeria)'
+id: indoneziană
+id_ID: 'indoneziană (Indonezia)'
+ga: irlandeză
+ga_IE: 'irlandeză (Irlanda)'
+is: islandeză
+is_IS: 'islandeză (Islanda)'
+it: italiană
+it_CH: 'italiană (Elveția)'
+it_IT: 'italiană (Italia)'
+it_SM: 'italiană (San Marino)'
+ja: japoneză
+ja_JP: 'japoneză (Japonia)'
+kl: kalaallisut
+kl_GL: 'kalaallisut (Groenlanda)'
+kn: kannada
+kn_IN: 'kannada (India)'
+kk: kazahă
+kk_Cyrl_KZ: 'kazahă (chirilică, Kazahstan)'
+kk_Cyrl: 'kazahă (chirilică)'
+kk_KZ: 'kazahă (Kazahstan)'
+ky: kârgâză
+ky_Cyrl_KG: 'kârgâză (chirilică, Kârgâzstan)'
+ky_Cyrl: 'kârgâză (chirilică)'
+ky_KG: 'kârgâză (Kârgâzstan)'
+km: khmeră
+km_KH: 'khmeră (Cambodgia)'
+ki: kikuyu
+ki_KE: 'kikuyu (Kenya)'
+rw: kinyarwanda
+rw_RW: 'kinyarwanda (Rwanda)'
+rn: kirundi
+rn_BI: 'kirundi (Burundi)'
+lo: laoțiană
+lo_LA: 'laoțiană (Laos)'
+lv: letonă
+lv_LV: 'letonă (Letonia)'
+ln: lingala
+ln_AO: 'lingala (Angola)'
+ln_CG: 'lingala (Congo - Brazzaville)'
+ln_CD: 'lingala (Congo - Kinshasa)'
+ln_CF: 'lingala (Republica Centrafricană)'
+lt: lituaniană
+lt_LT: 'lituaniană (Lituania)'
+lu: luba-katanga
+lu_CD: 'luba-katanga (Congo - Kinshasa)'
+lb: luxemburgheză
+lb_LU: 'luxemburgheză (Luxemburg)'
+mk: macedoneană
+mk_MK: 'macedoneană (Macedonia)'
+hu: maghiară
+hu_HU: 'maghiară (Ungaria)'
+ms: malaeză
+ms_BN: 'malaeză (Brunei)'
+ms_Latn_BN: 'malaeză (latină, Brunei)'
+ms_Latn_MY: 'malaeză (latină, Malaezia)'
+ms_Latn_SG: 'malaeză (latină, Singapore)'
+ms_Latn: 'malaeză (latină)'
+ms_MY: 'malaeză (Malaezia)'
+ms_SG: 'malaeză (Singapore)'
+ml: malayalam
+ml_IN: 'malayalam (India)'
+mg: malgașă
+mg_MG: 'malgașă (Madagascar)'
+mt: malteză
+mt_MT: 'malteză (Malta)'
+gv: manx
+gv_IM: 'manx (Insula Man)'
+mr: marathi
+mr_IN: 'marathi (India)'
+mn: mongolă
+mn_Cyrl_MN: 'mongolă (chirilică, Mongolia)'
+mn_Cyrl: 'mongolă (chirilică)'
+mn_MN: 'mongolă (Mongolia)'
+nd: 'ndebele de nord'
+nd_ZW: 'ndebele de nord (Zimbabwe)'
+ne: nepaleză
+ne_IN: 'nepaleză (India)'
+ne_NP: 'nepaleză (Nepal)'
+'no': norvegiană
+no_NO: 'norvegiană (Norvegia)'
+nb: 'norvegiană bokmål'
+nb_NO: 'norvegiană bokmål (Norvegia)'
+nb_SJ: 'norvegiană bokmål (Svalbard și Jan Mayen)'
+nn: 'norvegiană nynorsk'
+nn_NO: 'norvegiană nynorsk (Norvegia)'
+nl: olandeză
+nl_AW: 'olandeză (Aruba)'
+nl_BE: 'olandeză (Belgia)'
+nl_CW: 'olandeză (Curaçao)'
+nl_BQ: 'olandeză (Insulele Caraibe Olandeze)'
+nl_SX: 'olandeză (Sint-Maarten)'
+nl_SR: 'olandeză (Surinam)'
+nl_NL: 'olandeză (Țările de Jos)'
+or: oriya
+or_IN: 'oriya (India)'
+om: oromo
+om_ET: 'oromo (Etiopia)'
+om_KE: 'oromo (Kenya)'
+os: osetă
+os_GE: 'osetă (Georgia)'
+os_RU: 'osetă (Rusia)'
+ps: paștună
+ps_AF: 'paștună (Afganistan)'
+fa: persană
+fa_AF: 'persană (Afganistan)'
+fa_IR: 'persană (Iran)'
+pl: poloneză
+pl_PL: 'poloneză (Polonia)'
+pt: portugheză
+pt_AO: 'portugheză (Angola)'
+pt_BR: 'portugheză (Brazilia)'
+pt_CV: 'portugheză (Capul Verde)'
+pt_GW: 'portugheză (Guineea-Bissau)'
+pt_MZ: 'portugheză (Mozambic)'
+pt_PT: 'portugheză (Portugalia)'
+pt_MO: 'portugheză (R.A.S. Macao a Chinei)'
+pt_ST: 'portugheză (Sao Tome și Principe)'
+pt_TL: 'portugheză (Timorul de Est)'
+pa: punjabi
+pa_Arab_PK: 'punjabi (arabă, Pakistan)'
+pa_Arab: 'punjabi (arabă)'
+pa_Guru_IN: 'punjabi (gurmukhi, India)'
+pa_Guru: 'punjabi (gurmukhi)'
+pa_IN: 'punjabi (India)'
+pa_PK: 'punjabi (Pakistan)'
+qu: quechua
+qu_BO: 'quechua (Bolivia)'
+qu_EC: 'quechua (Ecuador)'
+qu_PE: 'quechua (Peru)'
+rm: romanșă
+rm_CH: 'romanșă (Elveția)'
+ro: română
+ro_MD: 'română (Republica Moldova)'
+ro_RO: 'română (România)'
+ru: rusă
+ru_BY: 'rusă (Belarus)'
+ru_KZ: 'rusă (Kazahstan)'
+ru_KG: 'rusă (Kârgâzstan)'
+ru_MD: 'rusă (Republica Moldova)'
+ru_RU: 'rusă (Rusia)'
+ru_UA: 'rusă (Ucraina)'
+se: 'sami de nord'
+se_FI: 'sami de nord (Finlanda)'
+se_NO: 'sami de nord (Norvegia)'
+se_SE: 'sami de nord (Suedia)'
+sg: sango
+sg_CF: 'sango (Republica Centrafricană)'
+sr: sârbă
+sr_BA: 'sârbă (Bosnia și Herțegovina)'
+sr_Cyrl_BA: 'sârbă (chirilică, Bosnia și Herțegovina)'
+sr_Cyrl_XK: 'sârbă (chirilică, Kosovo)'
+sr_Cyrl_ME: 'sârbă (chirilică, Muntenegru)'
+sr_Cyrl_RS: 'sârbă (chirilică, Serbia)'
+sr_Cyrl: 'sârbă (chirilică)'
+sr_XK: 'sârbă (Kosovo)'
+sr_Latn_BA: 'sârbă (latină, Bosnia și Herțegovina)'
+sr_Latn_XK: 'sârbă (latină, Kosovo)'
+sr_Latn_ME: 'sârbă (latină, Muntenegru)'
+sr_Latn_RS: 'sârbă (latină, Serbia)'
+sr_Latn: 'sârbă (latină)'
+sr_ME: 'sârbă (Muntenegru)'
+sr_RS: 'sârbă (Serbia)'
+sh: sârbo-croată
+sh_BA: 'sârbo-croată (Bosnia și Herțegovina)'
+sn: shona
+sn_ZW: 'shona (Zimbabwe)'
+ii: 'sichuan yi'
+ii_CN: 'sichuan yi (China)'
+si: singhaleză
+si_LK: 'singhaleză (Sri Lanka)'
+sk: slovacă
+sk_SK: 'slovacă (Slovacia)'
+sl: slovenă
+sl_SI: 'slovenă (Slovenia)'
+so: somaleză
+so_DJ: 'somaleză (Djibouti)'
+so_ET: 'somaleză (Etiopia)'
+so_KE: 'somaleză (Kenya)'
+so_SO: 'somaleză (Somalia)'
+es: spaniolă
+es_AR: 'spaniolă (Argentina)'
+es_BO: 'spaniolă (Bolivia)'
+es_EA: 'spaniolă (Ceuta și Melilla)'
+es_CL: 'spaniolă (Chile)'
+es_CO: 'spaniolă (Columbia)'
+es_CR: 'spaniolă (Costa Rica)'
+es_CU: 'spaniolă (Cuba)'
+es_EC: 'spaniolă (Ecuador)'
+es_SV: 'spaniolă (El Salvador)'
+es_PH: 'spaniolă (Filipine)'
+es_GT: 'spaniolă (Guatemala)'
+es_GQ: 'spaniolă (Guineea Ecuatorială)'
+es_HN: 'spaniolă (Honduras)'
+es_IC: 'spaniolă (Insulele Canare)'
+es_MX: 'spaniolă (Mexic)'
+es_NI: 'spaniolă (Nicaragua)'
+es_PA: 'spaniolă (Panama)'
+es_PY: 'spaniolă (Paraguay)'
+es_PE: 'spaniolă (Peru)'
+es_PR: 'spaniolă (Puerto Rico)'
+es_DO: 'spaniolă (Republica Dominicană)'
+es_ES: 'spaniolă (Spania)'
+es_US: 'spaniolă (Statele Unite ale Americii)'
+es_UY: 'spaniolă (Uruguay)'
+es_VE: 'spaniolă (Venezuela)'
+sv: suedeză
+sv_FI: 'suedeză (Finlanda)'
+sv_AX: 'suedeză (Insulele Åland)'
+sv_SE: 'suedeză (Suedia)'
+sw: swahili
+sw_KE: 'swahili (Kenya)'
+sw_TZ: 'swahili (Tanzania)'
+sw_UG: 'swahili (Uganda)'
+tl: tagalog
+tl_PH: 'tagalog (Filipine)'
+ta: tamilă
+ta_IN: 'tamilă (India)'
+ta_MY: 'tamilă (Malaezia)'
+ta_SG: 'tamilă (Singapore)'
+ta_LK: 'tamilă (Sri Lanka)'
+te: telugu
+te_IN: 'telugu (India)'
+th: thailandeză
+th_TH: 'thailandeză (Thailanda)'
+bo: tibetană
+bo_CN: 'tibetană (China)'
+bo_IN: 'tibetană (India)'
+ti: tigrină
+ti_ER: 'tigrină (Eritreea)'
+ti_ET: 'tigrină (Etiopia)'
+to: tonga
+to_TO: 'tonga (Tonga)'
+tr: turcă
+tr_CY: 'turcă (Cipru)'
+tr_TR: 'turcă (Turcia)'
+uk: ucraineană
+uk_UA: 'ucraineană (Ucraina)'
+ug: uigură
+ug_Arab_CN: 'uigură (arabă, China)'
+ug_Arab: 'uigură (arabă)'
+ug_CN: 'uigură (China)'
+ur: urdu
+ur_IN: 'urdu (India)'
+ur_PK: 'urdu (Pakistan)'
+uz: uzbecă
+uz_AF: 'uzbecă (Afganistan)'
+uz_Arab_AF: 'uzbecă (arabă, Afganistan)'
+uz_Arab: 'uzbecă (arabă)'
+uz_Cyrl_UZ: 'uzbecă (chirilică, Uzbekistan)'
+uz_Cyrl: 'uzbecă (chirilică)'
+uz_Latn_UZ: 'uzbecă (latină, Uzbekistan)'
+uz_Latn: 'uzbecă (latină)'
+uz_UZ: 'uzbecă (Uzbekistan)'
+vi: vietnameză
+vi_VN: 'vietnameză (Vietnam)'
+yo: yoruba
+yo_BJ: 'yoruba (Benin)'
+yo_NG: 'yoruba (Nigeria)'
+zu: zulu
+zu_ZA: 'zulu (Africa de Sud)'

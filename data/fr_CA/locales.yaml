@@ -1,0 +1,563 @@
+af: afrikaans
+af_ZA: 'afrikaans (Afrique du Sud)'
+af_NA: 'afrikaans (Namibie)'
+ak: akan
+ak_GH: 'akan (Ghana)'
+sq: albanais
+sq_AL: 'albanais (Albanie)'
+sq_XK: 'albanais (Kosovo)'
+sq_MK: 'albanais (Macédoine)'
+de: allemand
+de_DE: 'allemand (Allemagne)'
+de_AT: 'allemand (Autriche)'
+de_BE: 'allemand (Belgique)'
+de_LI: 'allemand (Liechtenstein)'
+de_LU: 'allemand (Luxembourg)'
+de_CH: 'allemand (Suisse)'
+am: amharique
+am_ET: 'amharique (Éthiopie)'
+en: anglais
+en_ZA: 'anglais (Afrique du Sud)'
+en_AI: 'anglais (Anguilla)'
+en_AG: 'anglais (Antigua-et-Barbuda)'
+en_AU: 'anglais (Australie)'
+en_BS: 'anglais (Bahamas)'
+en_BB: 'anglais (Barbade)'
+en_BE: 'anglais (Belgique)'
+en_BZ: 'anglais (Belize)'
+en_BM: 'anglais (Bermudes)'
+en_BW: 'anglais (Botswana)'
+en_CM: 'anglais (Cameroun)'
+en_CA: 'anglais (Canada)'
+en_DG: 'anglais (Diego Garcia)'
+en_DM: 'anglais (Dominique)'
+en_ER: 'anglais (Érythrée)'
+en_US: 'anglais (États-Unis)'
+en_FJ: 'anglais (Fidji)'
+en_GM: 'anglais (Gambie)'
+en_GH: 'anglais (Ghana)'
+en_GI: 'anglais (Gibraltar)'
+en_GD: 'anglais (Grenade)'
+en_GU: 'anglais (Guam)'
+en_GG: 'anglais (Guernesey)'
+en_GY: 'anglais (Guyana)'
+en_CX: 'anglais (Île Christmas)'
+en_IM: 'anglais (Île de Man)'
+en_NF: 'anglais (Île Norfolk)'
+en_KY: 'anglais (Îles Caïmans)'
+en_CC: 'anglais (Îles Cocos (Keeling))'
+en_CK: 'anglais (Îles Cook)'
+en_FK: 'anglais (Îles Malouines)'
+en_MP: 'anglais (Îles Mariannes du Nord)'
+en_MH: 'anglais (Îles Marshall)'
+en_UM: 'anglais (Îles mineures éloignées des États-Unis)'
+en_SB: 'anglais (Îles Salomon)'
+en_TC: 'anglais (Îles Turques-et-Caïques)'
+en_VG: 'anglais (Îles Vierges britanniques)'
+en_VI: 'anglais (Îles Vierges des États-Unis)'
+en_IN: 'anglais (Inde)'
+en_IE: 'anglais (Irlande)'
+en_JM: 'anglais (Jamaïque)'
+en_JE: 'anglais (Jersey)'
+en_KE: 'anglais (Kenya)'
+en_KI: 'anglais (Kiribati)'
+en_LS: 'anglais (Lesotho)'
+en_LR: 'anglais (Libéria)'
+en_MG: 'anglais (Madagascar)'
+en_MY: 'anglais (Malaisie)'
+en_MW: 'anglais (Malawi)'
+en_MT: 'anglais (Malte)'
+en_MU: 'anglais (Maurice)'
+en_FM: 'anglais (Micronésie)'
+en_MS: 'anglais (Montserrat)'
+en_NA: 'anglais (Namibie)'
+en_NR: 'anglais (Nauru)'
+en_NG: 'anglais (Nigéria)'
+en_NU: 'anglais (Niue)'
+en_NZ: 'anglais (Nouvelle-Zélande)'
+en_UG: 'anglais (Ouganda)'
+en_PK: 'anglais (Pakistan)'
+en_PW: 'anglais (Palaos)'
+en_PG: 'anglais (Papouasie-Nouvelle-Guinée)'
+en_PH: 'anglais (Philippines)'
+en_PN: 'anglais (Pitcairn)'
+en_PR: 'anglais (Porto Rico)'
+en_HK: 'anglais (R.A.S. chinoise de Hong Kong)'
+en_MO: 'anglais (R.A.S. chinoise de Macao)'
+en_GB: 'anglais (Royaume-Uni)'
+en_RW: 'anglais (Rwanda)'
+en_KN: 'anglais (Saint-Christophe-et-Niévès)'
+en_SX: 'anglais (Saint-Martin (Pays-Bas))'
+en_VC: 'anglais (Saint-Vincent-et-les Grenadines)'
+en_SH: 'anglais (Sainte-Hélène)'
+en_LC: 'anglais (Sainte-Lucie)'
+en_AS: 'anglais (Samoa américaines)'
+en_WS: 'anglais (Samoa)'
+en_SC: 'anglais (Seychelles)'
+en_SL: 'anglais (Sierra Leone)'
+en_SG: 'anglais (Singapour)'
+en_SS: 'anglais (Soudan du Sud)'
+en_SD: 'anglais (Soudan)'
+en_SZ: 'anglais (Swaziland)'
+en_TZ: 'anglais (Tanzanie)'
+en_IO: 'anglais (Territoire britannique de l’océan Indien)'
+en_TK: 'anglais (Tokelau)'
+en_TO: 'anglais (Tonga)'
+en_TT: 'anglais (Trinité-et-Tobago)'
+en_TV: 'anglais (Tuvalu)'
+en_VU: 'anglais (Vanuatu)'
+en_ZM: 'anglais (Zambie)'
+en_ZW: 'anglais (Zimbabwe)'
+ar: arabe
+ar_DZ: 'arabe (Algérie)'
+ar_SA: 'arabe (Arabie saoudite)'
+ar_BH: 'arabe (Bahreïn)'
+ar_KM: 'arabe (Comores)'
+ar_DJ: 'arabe (Djibouti)'
+ar_EG: 'arabe (Égypte)'
+ar_AE: 'arabe (Émirats arabes unis)'
+ar_ER: 'arabe (Érythrée)'
+ar_IQ: 'arabe (Irak)'
+ar_IL: 'arabe (Israël)'
+ar_JO: 'arabe (Jordanie)'
+ar_KW: 'arabe (Koweït)'
+ar_LB: 'arabe (Liban)'
+ar_LY: 'arabe (Libye)'
+ar_MA: 'arabe (Maroc)'
+ar_MR: 'arabe (Mauritanie)'
+ar_OM: 'arabe (Oman)'
+ar_QA: 'arabe (Qatar)'
+ar_EH: 'arabe (Sahara occidental)'
+ar_SO: 'arabe (Somalie)'
+ar_SS: 'arabe (Soudan du Sud)'
+ar_SD: 'arabe (Soudan)'
+ar_SY: 'arabe (Syrie)'
+ar_TD: 'arabe (Tchad)'
+ar_PS: 'arabe (Territoires palestiniens)'
+ar_TN: 'arabe (Tunisie)'
+ar_YE: 'arabe (Yémen)'
+hy: arménien
+hy_AM: 'arménien (Arménie)'
+as: assamais
+as_IN: 'assamais (Inde)'
+az: azéri
+az_AZ: 'azéri (Azerbaïdjan)'
+az_Cyrl_AZ: 'azéri (cyrillique, Azerbaïdjan)'
+az_Cyrl: 'azéri (cyrillique)'
+az_Latn_AZ: 'azéri (latin, Azerbaïdjan)'
+az_Latn: 'azéri (latin)'
+bm: bambara
+bm_Latn_ML: 'bambara (latin, Mali)'
+bm_Latn: 'bambara (latin)'
+eu: basque
+eu_ES: 'basque (Espagne)'
+bn: bengali
+bn_BD: 'bengali (Bangladesh)'
+bn_IN: 'bengali (Inde)'
+be: biélorusse
+be_BY: 'biélorusse (Bélarus)'
+my: birman
+my_MM: 'birman (Myanmar)'
+bs: bosniaque
+bs_BA: 'bosniaque (Bosnie-Herzégovine)'
+bs_Cyrl_BA: 'bosniaque (cyrillique, Bosnie-Herzégovine)'
+bs_Cyrl: 'bosniaque (cyrillique)'
+bs_Latn_BA: 'bosniaque (latin, Bosnie-Herzégovine)'
+bs_Latn: 'bosniaque (latin)'
+br: breton
+br_FR: 'breton (France)'
+bg: bulgare
+bg_BG: 'bulgare (Bulgarie)'
+ca: catalan
+ca_AD: 'catalan (Andorre)'
+ca_ES: 'catalan (Espagne)'
+ca_FR: 'catalan (France)'
+ca_IT: 'catalan (Italie)'
+zh: chinois
+zh_CN: 'chinois (Chine)'
+zh_Hans_CN: 'chinois (idéogrammes han simplifiés, Chine)'
+zh_Hans_HK: 'chinois (idéogrammes han simplifiés, R.A.S. chinoise de Hong Kong)'
+zh_Hans_MO: 'chinois (idéogrammes han simplifiés, R.A.S. chinoise de Macao)'
+zh_Hans_SG: 'chinois (idéogrammes han simplifiés, Singapour)'
+zh_Hans: 'chinois (idéogrammes han simplifiés)'
+zh_Hant_HK: 'chinois (idéogrammes han traditionnels, R.A.S. chinoise de Hong Kong)'
+zh_Hant_MO: 'chinois (idéogrammes han traditionnels, R.A.S. chinoise de Macao)'
+zh_Hant_TW: 'chinois (idéogrammes han traditionnels, Taïwan)'
+zh_Hant: 'chinois (idéogrammes han traditionnels)'
+zh_HK: 'chinois (R.A.S. chinoise de Hong Kong)'
+zh_MO: 'chinois (R.A.S. chinoise de Macao)'
+zh_SG: 'chinois (Singapour)'
+zh_TW: 'chinois (Taïwan)'
+si: cingalais
+si_LK: 'cingalais (Sri Lanka)'
+ko: coréen
+ko_KP: 'coréen (Corée du Nord)'
+ko_KR: 'coréen (Corée du Sud)'
+kw: cornique
+kw_GB: 'cornique (Royaume-Uni)'
+hr: croate
+hr_BA: 'croate (Bosnie-Herzégovine)'
+hr_HR: 'croate (Croatie)'
+da: danois
+da_DK: 'danois (Danemark)'
+da_GL: 'danois (Groenland)'
+dz: dzongkha
+dz_BT: 'dzongkha (Bhoutan)'
+es: espagnol
+es_AR: 'espagnol (Argentine)'
+es_BO: 'espagnol (Bolivie)'
+es_EA: 'espagnol (Ceuta et Melilla)'
+es_CL: 'espagnol (Chili)'
+es_CO: 'espagnol (Colombie)'
+es_CR: 'espagnol (Costa Rica)'
+es_CU: 'espagnol (Cuba)'
+es_EC: 'espagnol (Équateur)'
+es_ES: 'espagnol (Espagne)'
+es_US: 'espagnol (États-Unis)'
+es_GT: 'espagnol (Guatemala)'
+es_GQ: 'espagnol (Guinée équatoriale)'
+es_HN: 'espagnol (Honduras)'
+es_IC: 'espagnol (Îles Canaries)'
+es_MX: 'espagnol (Mexique)'
+es_NI: 'espagnol (Nicaragua)'
+es_PA: 'espagnol (Panama)'
+es_PY: 'espagnol (Paraguay)'
+es_PE: 'espagnol (Pérou)'
+es_PH: 'espagnol (Philippines)'
+es_PR: 'espagnol (Porto Rico)'
+es_DO: 'espagnol (République dominicaine)'
+es_SV: 'espagnol (Salvador)'
+es_UY: 'espagnol (Uruguay)'
+es_VE: 'espagnol (Venezuela)'
+eo: espéranto
+et: estonien
+et_EE: 'estonien (Estonie)'
+ee: éwé
+ee_GH: 'éwé (Ghana)'
+ee_TG: 'éwé (Togo)'
+fo: féroïen
+fo_FO: 'féroïen (Îles Féroé)'
+fi: finnois
+fi_FI: 'finnois (Finlande)'
+fr: français
+fr_DZ: 'français (Algérie)'
+fr_BE: 'français (Belgique)'
+fr_BJ: 'français (Bénin)'
+fr_BF: 'français (Burkina Faso)'
+fr_BI: 'français (Burundi)'
+fr_CM: 'français (Cameroun)'
+fr_CA: 'français (Canada)'
+fr_KM: 'français (Comores)'
+fr_CG: 'français (Congo-Brazzaville)'
+fr_CD: 'français (Congo-Kinshasa)'
+fr_CI: 'français (Côte d’Ivoire)'
+fr_DJ: 'français (Djibouti)'
+fr_FR: 'français (France)'
+fr_GA: 'français (Gabon)'
+fr_GP: 'français (Guadeloupe)'
+fr_GQ: 'français (Guinée équatoriale)'
+fr_GN: 'français (Guinée)'
+fr_GF: 'français (Guyane française)'
+fr_HT: 'français (Haïti)'
+fr_RE: 'français (La Réunion)'
+fr_LU: 'français (Luxembourg)'
+fr_MG: 'français (Madagascar)'
+fr_ML: 'français (Mali)'
+fr_MA: 'français (Maroc)'
+fr_MQ: 'français (Martinique)'
+fr_MU: 'français (Maurice)'
+fr_MR: 'français (Mauritanie)'
+fr_YT: 'français (Mayotte)'
+fr_MC: 'français (Monaco)'
+fr_NE: 'français (Niger)'
+fr_NC: 'français (Nouvelle-Calédonie)'
+fr_PF: 'français (Polynésie française)'
+fr_CF: 'français (République centrafricaine)'
+fr_RW: 'français (Rwanda)'
+fr_BL: 'français (Saint-Barthélemy)'
+fr_MF: 'français (Saint-Martin (France))'
+fr_PM: 'français (Saint-Pierre-et-Miquelon)'
+fr_SN: 'français (Sénégal)'
+fr_SC: 'français (Seychelles)'
+fr_CH: 'français (Suisse)'
+fr_SY: 'français (Syrie)'
+fr_TD: 'français (Tchad)'
+fr_TG: 'français (Togo)'
+fr_TN: 'français (Tunisie)'
+fr_VU: 'français (Vanuatu)'
+fr_WF: 'français (Wallis-et-Futuna)'
+fy: frison
+fy_NL: 'frison (Pays-Bas)'
+gd: 'gaélique écossais'
+gd_GB: 'gaélique écossais (Royaume-Uni)'
+gl: galicien
+gl_ES: 'galicien (Espagne)'
+cy: gallois
+cy_GB: 'gallois (Royaume-Uni)'
+lg: ganda
+lg_UG: 'ganda (Ouganda)'
+ka: géorgien
+ka_GE: 'géorgien (Géorgie)'
+gu: goudjarâtî
+gu_IN: 'goudjarâtî (Inde)'
+el: grec
+el_CY: 'grec (Chypre)'
+el_GR: 'grec (Grèce)'
+kl: groenlandais
+kl_GL: 'groenlandais (Groenland)'
+ha: haoussa
+ha_GH: 'haoussa (Ghana)'
+ha_Latn_GH: 'haoussa (latin, Ghana)'
+ha_Latn_NE: 'haoussa (latin, Niger)'
+ha_Latn_NG: 'haoussa (latin, Nigéria)'
+ha_Latn: 'haoussa (latin)'
+ha_NE: 'haoussa (Niger)'
+ha_NG: 'haoussa (Nigéria)'
+he: hébreu
+he_IL: 'hébreu (Israël)'
+hi: hindi
+hi_IN: 'hindi (Inde)'
+hu: hongrois
+hu_HU: 'hongrois (Hongrie)'
+ig: igbo
+ig_NG: 'igbo (Nigéria)'
+id: indonésien
+id_ID: 'indonésien (Indonésie)'
+ga: irlandais
+ga_IE: 'irlandais (Irlande)'
+is: islandais
+is_IS: 'islandais (Islande)'
+it: italien
+it_IT: 'italien (Italie)'
+it_SM: 'italien (Saint-Marin)'
+it_CH: 'italien (Suisse)'
+ja: japonais
+ja_JP: 'japonais (Japon)'
+kn: kannada
+kn_IN: 'kannada (Inde)'
+ks: kashmiri
+ks_Arab_IN: 'kashmiri (arabe, Inde)'
+ks_Arab: 'kashmiri (arabe)'
+ks_IN: 'kashmiri (Inde)'
+kk: kazakh
+kk_Cyrl_KZ: 'kazakh (cyrillique, Kazakhstan)'
+kk_Cyrl: 'kazakh (cyrillique)'
+kk_KZ: 'kazakh (Kazakhstan)'
+km: khmer
+km_KH: 'khmer (Cambodge)'
+ki: kikuyu
+ki_KE: 'kikuyu (Kenya)'
+rw: kinyarwanda
+rw_RW: 'kinyarwanda (Rwanda)'
+ky: kirghize
+ky_Cyrl_KG: 'kirghize (cyrillique, Kirghizistan)'
+ky_Cyrl: 'kirghize (cyrillique)'
+ky_KG: 'kirghize (Kirghizistan)'
+lo: lao
+lo_LA: 'lao (Laos)'
+lv: letton
+lv_LV: 'letton (Lettonie)'
+ln: lingala
+ln_AO: 'lingala (Angola)'
+ln_CG: 'lingala (Congo-Brazzaville)'
+ln_CD: 'lingala (Congo-Kinshasa)'
+ln_CF: 'lingala (République centrafricaine)'
+lt: lituanien
+lt_LT: 'lituanien (Lituanie)'
+lu: luba-katanga
+lu_CD: 'luba-katanga (Congo-Kinshasa)'
+lb: luxembourgeois
+lb_LU: 'luxembourgeois (Luxembourg)'
+mk: macédonien
+mk_MK: 'macédonien (Macédoine)'
+ms: malais
+ms_BN: 'malais (Brunéi Darussalam)'
+ms_Latn_BN: 'malais (latin, Brunéi Darussalam)'
+ms_Latn_MY: 'malais (latin, Malaisie)'
+ms_Latn_SG: 'malais (latin, Singapour)'
+ms_Latn: 'malais (latin)'
+ms_MY: 'malais (Malaisie)'
+ms_SG: 'malais (Singapour)'
+ml: malayalam
+ml_IN: 'malayalam (Inde)'
+mg: malgache
+mg_MG: 'malgache (Madagascar)'
+mt: maltais
+mt_MT: 'maltais (Malte)'
+gv: manx
+gv_IM: 'manx (Île de Man)'
+mr: marathe
+mr_IN: 'marathe (Inde)'
+mn: mongol
+mn_Cyrl_MN: 'mongol (cyrillique, Mongolie)'
+mn_Cyrl: 'mongol (cyrillique)'
+mn_MN: 'mongol (Mongolie)'
+nd: 'ndébélé du Nord'
+nd_ZW: 'ndébélé du Nord (Zimbabwe)'
+nl: néerlandais
+nl_AW: 'néerlandais (Aruba)'
+nl_BE: 'néerlandais (Belgique)'
+nl_CW: 'néerlandais (Curaçao)'
+nl_BQ: 'néerlandais (Pays-Bas caribéens)'
+nl_NL: 'néerlandais (Pays-Bas)'
+nl_SX: 'néerlandais (Saint-Martin (Pays-Bas))'
+nl_SR: 'néerlandais (Suriname)'
+ne: népalais
+ne_IN: 'népalais (Inde)'
+ne_NP: 'népalais (Népal)'
+'no': norvégien
+no_NO: 'norvégien (Norvège)'
+nb: 'norvégien bokmål'
+nb_NO: 'norvégien bokmål (Norvège)'
+nb_SJ: 'norvégien bokmål (Svalbard et Jan Mayen)'
+nn: 'norvégien nynorsk'
+nn_NO: 'norvégien nynorsk (Norvège)'
+or: oriya
+or_IN: 'oriya (Inde)'
+om: oromo
+om_ET: 'oromo (Éthiopie)'
+om_KE: 'oromo (Kenya)'
+os: ossète
+os_GE: 'ossète (Géorgie)'
+os_RU: 'ossète (Russie)'
+ug: ouïgour
+ug_Arab_CN: 'ouïgour (arabe, Chine)'
+ug_Arab: 'ouïgour (arabe)'
+ug_CN: 'ouïgour (Chine)'
+ur: ourdou
+ur_IN: 'ourdou (Inde)'
+ur_PK: 'ourdou (Pakistan)'
+uz: ouzbek
+uz_AF: 'ouzbek (Afghanistan)'
+uz_Arab_AF: 'ouzbek (arabe, Afghanistan)'
+uz_Arab: 'ouzbek (arabe)'
+uz_Cyrl_UZ: 'ouzbek (cyrillique, Ouzbékistan)'
+uz_Cyrl: 'ouzbek (cyrillique)'
+uz_Latn_UZ: 'ouzbek (latin, Ouzbékistan)'
+uz_Latn: 'ouzbek (latin)'
+uz_UZ: 'ouzbek (Ouzbékistan)'
+ps: pachto
+ps_AF: 'pachto (Afghanistan)'
+pa: pendjabi
+pa_Arab_PK: 'pendjabi (arabe, Pakistan)'
+pa_Arab: 'pendjabi (arabe)'
+pa_Guru_IN: 'pendjabi (gourmoukhî, Inde)'
+pa_Guru: 'pendjabi (gourmoukhî)'
+pa_IN: 'pendjabi (Inde)'
+pa_PK: 'pendjabi (Pakistan)'
+fa: persan
+fa_AF: 'persan (Afghanistan)'
+fa_IR: 'persan (Iran)'
+ff: peul
+ff_CM: 'peul (Cameroun)'
+ff_GN: 'peul (Guinée)'
+ff_MR: 'peul (Mauritanie)'
+ff_SN: 'peul (Sénégal)'
+pl: polonais
+pl_PL: 'polonais (Pologne)'
+pt: portugais
+pt_AO: 'portugais (Angola)'
+pt_BR: 'portugais (Brésil)'
+pt_CV: 'portugais (Cap-Vert)'
+pt_GW: 'portugais (Guinée-Bissau)'
+pt_MZ: 'portugais (Mozambique)'
+pt_PT: 'portugais (Portugal)'
+pt_MO: 'portugais (R.A.S. chinoise de Macao)'
+pt_ST: 'portugais (Sao Tomé-et-Principe)'
+pt_TL: 'portugais (Timor oriental)'
+qu: quechua
+qu_BO: 'quechua (Bolivie)'
+qu_EC: 'quechua (Équateur)'
+qu_PE: 'quechua (Pérou)'
+rm: romanche
+rm_CH: 'romanche (Suisse)'
+ro: roumain
+ro_MD: 'roumain (Moldavie)'
+ro_RO: 'roumain (Roumanie)'
+rn: roundi
+rn_BI: 'roundi (Burundi)'
+ru: russe
+ru_BY: 'russe (Bélarus)'
+ru_KZ: 'russe (Kazakhstan)'
+ru_KG: 'russe (Kirghizistan)'
+ru_MD: 'russe (Moldavie)'
+ru_RU: 'russe (Russie)'
+ru_UA: 'russe (Ukraine)'
+se: 'sami du Nord'
+se_FI: 'sami du Nord (Finlande)'
+se_NO: 'sami du Nord (Norvège)'
+se_SE: 'sami du Nord (Suède)'
+sg: sangho
+sg_CF: 'sangho (République centrafricaine)'
+sr: serbe
+sr_BA: 'serbe (Bosnie-Herzégovine)'
+sr_Cyrl_BA: 'serbe (cyrillique, Bosnie-Herzégovine)'
+sr_Cyrl_XK: 'serbe (cyrillique, Kosovo)'
+sr_Cyrl_ME: 'serbe (cyrillique, Monténégro)'
+sr_Cyrl_RS: 'serbe (cyrillique, Serbie)'
+sr_Cyrl: 'serbe (cyrillique)'
+sr_XK: 'serbe (Kosovo)'
+sr_Latn_BA: 'serbe (latin, Bosnie-Herzégovine)'
+sr_Latn_XK: 'serbe (latin, Kosovo)'
+sr_Latn_ME: 'serbe (latin, Monténégro)'
+sr_Latn_RS: 'serbe (latin, Serbie)'
+sr_Latn: 'serbe (latin)'
+sr_ME: 'serbe (Monténégro)'
+sr_RS: 'serbe (Serbie)'
+sh: serbo-croate
+sh_BA: 'serbo-croate (Bosnie-Herzégovine)'
+sn: shona
+sn_ZW: 'shona (Zimbabwe)'
+sk: slovaque
+sk_SK: 'slovaque (Slovaquie)'
+sl: slovène
+sl_SI: 'slovène (Slovénie)'
+so: somali
+so_DJ: 'somali (Djibouti)'
+so_ET: 'somali (Éthiopie)'
+so_KE: 'somali (Kenya)'
+so_SO: 'somali (Somalie)'
+sv: suédois
+sv_FI: 'suédois (Finlande)'
+sv_AX: 'suédois (Îles Åland)'
+sv_SE: 'suédois (Suède)'
+sw: swahili
+sw_KE: 'swahili (Kenya)'
+sw_UG: 'swahili (Ouganda)'
+sw_TZ: 'swahili (Tanzanie)'
+tl: tagalog
+tl_PH: 'tagalog (Philippines)'
+ta: tamoul
+ta_IN: 'tamoul (Inde)'
+ta_MY: 'tamoul (Malaisie)'
+ta_SG: 'tamoul (Singapour)'
+ta_LK: 'tamoul (Sri Lanka)'
+cs: tchèque
+cs_CZ: 'tchèque (République tchèque)'
+te: télougou
+te_IN: 'télougou (Inde)'
+th: thaï
+th_TH: 'thaï (Thaïlande)'
+bo: tibétain
+bo_CN: 'tibétain (Chine)'
+bo_IN: 'tibétain (Inde)'
+ti: tigrigna
+ti_ER: 'tigrigna (Érythrée)'
+ti_ET: 'tigrigna (Éthiopie)'
+to: tongan
+to_TO: 'tongan (Tonga)'
+tr: turc
+tr_CY: 'turc (Chypre)'
+tr_TR: 'turc (Turquie)'
+uk: ukrainien
+uk_UA: 'ukrainien (Ukraine)'
+vi: vietnamien
+vi_VN: 'vietnamien (Vietnam)'
+ii: 'yi de Sichuan'
+ii_CN: 'yi de Sichuan (Chine)'
+yi: yiddish
+yo: yoruba
+yo_BJ: 'yoruba (Bénin)'
+yo_NG: 'yoruba (Nigéria)'
+zu: zoulou
+zu_ZA: 'zoulou (Afrique du Sud)'
