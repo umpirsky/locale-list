@@ -1,0 +1,9 @@
+{
+  "name": "@umpirsky/locale-list",
+  "description": "List of all locales with names and codes in all languages and all data formats.",
+  "version": "1.0.0",
+  "homepage": "http://github.com/umpirsky/locale-list",
+  "repository": "git://github.com/umpirsky/locale-list.git",
+  "author": "Saša Stamenković <umpirsky@gmail.com>",
+  "license": "MIT"
+}
